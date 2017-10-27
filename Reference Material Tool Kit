@@ -1,0 +1,302 @@
+Ark.io - IoT Hardware Reference Material / Tool Kit
+
+Ark.io - IoT Hardware Reference Sheet / Tool Kit
+
+https://github.com/Ark-IoT/ark-hackprinceton/tree/master/hardware
+
+Ark: HackPrinceton Hardware Kits
+
+Featured Gear
+
+Boards
+
+Raspberry Pi Zero W
+
+
+
+specs
+
+- 1GHz, single-core CPU
+- 512MB RAM
+- 802.11 b/g/n wireless LAN
+- Bluetooth 4.1
+- Bluetooth Low Energy (BLE)
+- Mini HDMI and USB On-The-Go ports
+- Micro USB power
+- HAT-compatible 40-pin header
+- Composite video and reset headers
+- CSI camera connector
+
+  pinout    
+  pinout.xyz
+            
+
+  guides                              
+  Adafruit: Raspberry Pi Zero Creation
+  Raspberry Pi Hardware Guide         
+
+  images               
+  Ark-IoT Core Image   
+  Raspbian Stretch Lite
+
+  libraries
+  Node-RPIO
+  WiringPi 
+
+Adafruit Feather Huzzah8266
+
+
+
+Adafruit HUZZAH32 Feather
+
+
+
+---
+
+Modules
+
+Pixy CMUcam5 Sensor
+
+
+
+PN532 NFC/RFID breakout board
+
+
+
+Adafruit Ultimate GPS FeatherWing
+
+(includes Passive GPS uFL Antenna w/-2dBi gain)
+
+
+
+Adalogger FeatherWing - RTC + SD
+
+
+
+Music Maker FeatherWing w/ Amp
+
+
+
+Adafruit Power Relay FeatherWing
+
+
+
+---
+
+Sensors
+
+Electret Microphone Amplifier
+
+
+
+Waterproof DS18B20 Digital temperature sensor
+
+
+
+Laser Diode - 5mW 650nm Red
+
+
+
+Small push-pull solenoid
+
+
+
+Liquid Crystal Light Valve
+
+
+
+basic sensors
+
+Fast Vibration Sensor Switch
+
+
+
+DHT22 temperature-humidity sensor
+
+
+
+PIR (motion) sensor
+
+
+
+Micro servo
+
+
+
+Magnetic contact switch
+
+
+
+Piezo Buzzer
+
+
+
+Photo cell (CdS photoresistor)
+
+
+
+---
+
+Power & Prototyping
+
+Adafruit Parts Pal
+
+
+
+Lithium Ion Battery - 3.7v 2000mAh
+
+
+
+Also will include Breadboards, Switches, Resistors, and Potentiometers.
+
+Reference Material:
+
+Slock.it 
+
+https://slock.it/
+
+https://slock.it/technology.html
+
+Autonomous Objects
+
+Connecting all things, the Universal Sharing Network will form a financial Internet where machines can not only sell and rent themselves, but also pay for each other services. For example, an office door can open itself when paid, while a fridge could order its own repairs.
+
+Raspberry Pi
+
+https://www.raspberrypi.org/
+
+https://www.raspberrypi.org/about/
+
+https://vimeo.com/raspberrypi/what-is-a-raspberry-pi
+
+https://www.raspberrypi.org/downloads/
+
+https://www.amazon.com/raspberry-pi/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Araspberry%20pi Raspberry Pi Kits on Amazon (examples)
+
+Samsung Artik
+
+https://github.com/SamsungARTIK
+
+https://www.artik.io/
+
+https://www.digikey.com/en/product-highlight/s/samsung-led/artik-5-module
+
+Samsung's ARTIK 5 and ARTIK 10 developer kits are the perfect choice for developing products for the Internet of Things (IoT). The kits include everything needed to get started: an ARTIK 5 or ARTIK 10 system-on-module mounted on a development board with built-in Wi-Fi, Zigbee®, and Bluetooth® circuitry. Antennas, power supply, and USB cable (for programming) are included.
+
+Every ARTIK 5 or ARTIK 10 module has the ability to authenticate its boot image using a secure hash and execute a secure boot once the boot image has been authenticated. Secure communication and key management is facilitated by the secure element as part of the module. Finally, secure execution can be performed in Samsung’s TEE using ARM TrustZone.
+
+https://www.artik.io/modules/
+
+https://www.pcworld.com/article/3062375/internet-of-things/samsungs-artik-10-a-challenger-to-raspberry-pi-3-will-ship-next-month.html
+
+https://www.amazon.com/samsung-surveillance-camera/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Asamsung%20surveillance%20camera
+
+Samsung Surveillance Cameras / Weatherproof Cams
+
+GoPro
+
+https://gopro.com/
+
+https://shop.gopro.com/softwareandapp
+
+https://gopro.com/update Download Updates / Product Guides
+
+https://gopro.com/update/karma-drone Karma Drone
+
+https://gopro.com/channel/ Video Photography
+
+Hitachi
+
+Multimedia, Surveillance & Vision Systems
+
+    
+
+Hitachi has a strong and viable presence in the multimedia, surveillance, and vision systems market. Hitachi’s multimedia systems and products include interactive whiteboards, wireless tablets, LCD displays, and more. Our multimedia products are world-renowned for encompassing simple, yet efficient products. Hitachi takes surveillance vision systems to the extraordinary levels with its matrix of crucial imaging surveillance cameras that include the crucial surveillance series, the crucial PTZ camera series, and the crucial network series.
+
+Browse the menu below to find multimedia, surveillance, and vision systems for your specific business requirements.
+
+http://www.hitachi.us/products/business/it/multimedia-surveillance-vision-systems/
+
+http://www.hitachi.us/products/business/it/internet-of-things?WT.ac=us_rm_pro_bus_it_iot Internet of Things
+
+Various government and public organizations are aligning themselves towards a business-to-society model. By bringing together people, data and machines, the Internet of Things (IoT) is playing a crucial role in building a safer, smarter, healthier and more efficient society that is better for all. Hitachi provides an extensive line of IoT solutions for cities, industries and businesses to deliver exceptional outcomes. Browse through the categories listed below to find out more about our vast experience and deep expertise in Internet of Things (IoT).
+
+Ada Fruit
+
+https://www.adafruit.com/
+
+https://learn.adafruit.com/ Ada Fruit Category section
+
+Reprap Movement
+
+RepRap was invented by Adrian Bowyer and the idea first appeared online in February 2004.
+
+The word RepRap is short for Replicating Rapid-prototyper. It is the practical self-copying 3D printer 
+
+http://www.reprap.org/wiki/About
+
+NFC (Near Field Communication)
+
+https://www.nfc-tracker.com/
+
+NFC is simply a set of short-range wireless technologies, typically requiring a distance of 20 cm (7.5 inches) or less depending on the application. There are two ways this can work: use the phone as an NFC-TAG or use the phone to read NFC-TAGs. An NFC-TAG can take any shape or form and can attach to almost any surface. This TAG can contain information about the tagged location, object, or task associated with it. Then use the NFC-tracker to manage all of the retrieved information. Combine smartphones, NFC-TAGs, the NFC-tracker software, and some creativity and you have countless options on how to use this system to improve the operations of your organisation!
+
+RFID (Radio Frequency Identification)
+
+https://www.barcodesinc.com/intermec/intermec-rfid-printers.htm RFID Printers
+
+https://en.wikipedia.org/wiki/Radio-frequency_identification 
+
+Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. The tags contain electronically stored information. Passive tags collect energy from a nearby RFID reader's interrogating radio waves. Active tags have a local power source (such as a battery) and may operate hundreds of meters from the RFID reader. Unlike a barcode, the tag need not be within the line of sight of the reader, so it may be embedded in the tracked object. RFID is one method for Automatic Identification and Data Capture (AIDC).[1]
+
+RFID tags are used in many industries, for example, an RFID tag attached to an automobile during production can be used to track its progress through the assembly line; RFID-tagged pharmaceuticals can be tracked through warehouses; and implanting RFID microchips in livestock and pets allows for positive identification of animals.    
+
+What is the difference between NFC and RFID?    
+
+NFC is built upon existing Radio Frequency Identification (RFID) technology and takes RFID one step further. Earlier RFID-TAGs could only be read, an example of one-way communication. The new generation of RFID, called NFC-TAGs, can also communicate information. Common RFID bands include 125/134 KHz, 13.56 MHz, and 868/915 MHz, while NFC generally operates on the 13.56 MHz band only.            
+
+                                    
+
+                            
+
+                                            
+
+Ideas / Examples
+
+https://thefishsite.com/articles/are-fisheries-observers-safe-at-sea 
+
+Are Fisheries Observers Safe at Sea?
+
+https://www.ktoo.org/2015/06/13/cameras-to-remedy-observer-problems-in-alaska/ Cameras to remedy observer problems in Alaska?
+
+Now consider the fisheries and management worldwide, but first consider the example of Alaska:
+
+http://www.ufafish.org/
+
+To promote and protect the common interest of Alaska’s commercial fishing industry, as a vital component of Alaska’s social and economic well-being.
+
+United Fishermen of Alaska (UFA) is the statewide commercial fishing trade association, representing 33 Alaska commercial fishing organizations participating in fisheries throughout the state and its offshore federal waters.
+
+https://www.marineinsight.com/shipping-news/model-testing-commences-worlds-first-autonomous-container-vessel/?utm_content=buffere4760&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer Model Testing Commences For World’s First Autonomous Container Vessel
+
+https://thailand.wcs.org/Initiative/Tiger-Conservation.aspx
+
+Tiger Conservation
+
+https://thailand.wcs.org/
+
+https://www.wcs.org/
+
+https://www.wcs.org/our-work/solutions Solutions
+
+http://forwardermagazine.com/industry-news/store-friendly-sequencing-through-warehouse-friendly-automation/ STORE-FRIENDLY-SEQUENCING THROUGH WAREHOUSE-FRIENDLY AUTOMATION
+
+                                
+
+https://www.youtube.com/watch?v=iEnGWU3heDU 
+
+Stiles Machinery Introduces Intellistore
+
+https://www.centritechnology.com/
+
+Eliminate IoT Security Risk / Proven Protection from Chip to Cloud

@@ -1,0 +1,1510 @@
+Source: i-scoop.eu
+
+Category: Essential IoT Businesses Guide
+
+https://www.i-scoop.eu/internet-of-things-guide/
+
+                    
+
+                                                The Internet of Things (IoT) – essential IoT business guide                                            
+
+                
+
+    
+
+The Internet of Things (IoT) demystified: an Internet of Things business guide with the origins, technologies and evolutions of the Internet of Things with business examples, applications and research across industries.
+
+The Internet of Things is an essential driver for customer-facing innovation, data-driven optimization and automation, digital transformation and entirely new applications, business models and revenue streams across all sectors. 
+
+The Internet of Things is the third wave in the development of the Internet.
+
+The Internet of Things is the logical next step in the evolution of the Internet. The roots of the Internet of Things go back to several existing technologies including machine-to-machine communication (M2M), RFID and sensors.
+
+The Internet of Things converges industries and specializations, uniting Information Technology and Operational Technology (IT and OT) and contributing to industrial transformation (Industry 4.0) and a wave of use cases which are either cross-industry or typical to a specific sector. As of June 2017 the main areas of Internet of Things investments (industries and use cases) include manufacturing operations, transportation, smart grid technologies, smart buildings and, increasingly, consumer Internet of Things and smart home automation.
+
+Welcome to your IoT business guide. Please use the table of contents to find the information you need.
+
+
+
+Table of Contents [hide]
+
+- 1 What is the Internet Of Things (IoT)?
+- 2 The Internet of Things is a reality in business and beyond
+  - 2.1 Understanding the IoT: context
+  - 2.2 The Internet of Things as an evolving reality
+- 3 The origins of the Internet of Things: how it all started
+  - 3.1 The role and impact of RFID
+  - 3.2 From RFID and M2M to IoT
+  - 3.3 How the Internet of Things was coined in a context of RFID
+- 4 Defining IoT – many approaches
+  - 4.1 Common elements in the IoT
+  - 4.2 The Internet of Things in flux
+  - 4.3 What is the IoT? A visual answer
+  - 4.4 The definition of the Internet of Things: an evolving reality
+- 5 The exponential growth of the Internet of Things
+  - 5.1 Predictions on the number of connected devices – a changing picture
+  - 5.2 A variety of sources and predictions in context
+  - 5.3 Impact, data and outcomes before devices
+  - 5.4 The number of Internet of Things devices in the overall connected devices landscape
+  - 5.5 Reasons for the exponential growth of the Internet of Things
+- 6 The Internet of Things: many terms and many flavors
+- 7 The Industrial Internet of Things (IIoT)
+  - 7.1 Industrial Internet of Things definition
+  - 7.2 Industrial Internet of Things use cases, benefits and challenges
+  - 7.3 The opportunities and difference of IIoT
+- 8 The Consumer Internet of Things (CIoT)
+  - 8.1 The Consumer Internet of Things and consumer electronics
+  - 8.2 The Consumer Internet of Things market: focus on experiences and benefits
+  - 8.3 RFID in the lives of consumers
+- 9 Internet of Things in business: the Internet of Everything (IoE)
+- 10 Internet of Things and robots: the Internet of Robotic Things (IoRT)
+- 11 Internet of Things business across industries: sectors and use cases
+  - 11.1 Patterns and shifts in the vertical industry and Internet of Things use case spend
+  - 11.2 The top industries driving the Internet of Things 2016-2020
+  - 11.3 Internet of Things in manufacturing
+  - 11.4 The Internet of Things in the retail business
+  - 11.5 The Internet of Things in government and cities
+  - 11.6 The Internet of Things in buildings and facilities
+  - 11.7 The Internet of Things in healthcare
+  - 11.8 Internet of Things in utilities and energy
+  - 11.9 The Internet of Things in automotive 
+  - 11.10 The Internet of Things in other sectors
+- 12 Internet of Things trends for 2017 and beyond
+- 13 Internet of Things projects and examples
+  - 13.1 Industrial Internet of Things business case: developing a new service offering at ABB Robotics 
+  - 13.2 Smart city Internet of Things example: tackling air pollution in Glasgow
+  - 13.3 Environmental grassroots Internet of Things example: a flood alert system
+  - 13.4 IIoT and Industry 4.0 example: a mining business case
+  - 13.5 Internet of Things and smart facility management case: business innovation in the property development market
+  - 13.6 A list of Internet of Things projects and cases
+- 14 Internet of Things technology: cloud and fog computing
+- 15 Connectivity and network technologies
+  - 15.1 Internet of Things networks and connectivity in evolution
+  - 15.2 Moving to more wireless Internet of Things connections and wireless network technologies
+  - 15.3 Internet of Things network and connectivity shifts in the Industrial IoT
+  - 15.4 Most Internet of Things cases require several connectivity technologies
+  - 15.5 An example of IoT connectivity in practice: combining Zigbee and 3G for mobile air quality monitoring
+  - 15.6 More on Internet of Things connectivity
+- 16 Internet of Things platforms
+- 17 The Internet of Things and IPv6
+- 18 Internet of Things and the Internet of Services
+- 19 Internet of Things and security
+  - 19.1 Security is a challenge in consumer and industrial Internet of Things
+  - 19.2 Cybercrime meets the Internet of Things
+  - 19.3 Internet of Things security risks
+  - 19.4 Internet of Things security priorities and evolutions
+  - 19.5 Security and the Industrial Internet of Things
+- 20 Internet of Things and regulations
+  - 20.1 Internet of Things, the GDPR and the ePrivacy Regulation
+  - 20.2 Internet of Things and regulation: awareness is crucial, compliance will drive the market
+- 21 Distributed ledger technology: blockchain and the Internet Of Things
+- 22 Internet of Things, artificial intelligence and machine learning
+- 23 The Internet of Things in business context: sell/realize the use case and outcome
+- 24 How important is the Internet of Things really?
+- 25 The Internet of Things in an infographic
+
+What is the Internet Of Things (IoT)?
+
+The Internet of Things or IoT is an umbrella term for a broad range of underlying technologies and services, which depend on the use case and in turn are part of a broader ecosystem which includes related technologies such as analytics, big data, connectivity solutions and more.
+
+The Internet of Things is the interconnection of endpoints (devices and things) which can be uniquely addressed and identified with an IP (Internet Protocol) address. With the Internet of Things, devices can be connected to the Internet, sense, gather, receive and send data and communicate with each other and applications via IP technologies, platforms and connectivity solutions. 
+
+The interconnection of physical devices with embedded sensing and communication possibilities, including sensors and actuators, is not new. However, in the Internet of Things, physical endpoints are connected through uniquely identifiable IP addresses; whereby data can be gathered and communicated via embedded electronics and software, additional connectivity technologies and the cloud, networks or IoT platforms.
+
+The IoT is an additional layer of information, interaction, transaction and action which is added to the Internet thanks to devices, equiped with data sensing, analysis and communication capabilities, using Internet technologies. The Internet of Things further bridges digital and physical realities and powers information-driven automation and improvements on the level of business, society and people’s lives.
+
+The Internet of Things is a reality in business and beyond
+
+In several industries and companies, tangible value creation by leveraging the power of the IoT is happening since quite some time as ample real-life IoT examples show.
+
+Forecasts show an expected Internet of Things universe with between 20 and 30 billion connected devices by 2020
+
+However, it will still take until the next decennium (2020 and beyond) before hype and misunderstandings regarding the Internet of Things fade away and uncertainties and challenges in several areas are solved. 2017, 2018 and 2019 are pivotal years in this regard.
+
+Understanding the IoT: context
+
+To understand the benefits, value, context and even technologies of the IoT it’s important to look at use cases and examples across various applications and industries.
+
+Although the IoT is often approached as if it were a ‘thing’ as such one needs to understand the differences from an applications perspective in areas such as the Industrial Internet of Things, the Consumer Internet of Things and, beyond these ‘flavors’ and terms, the so-called IoT use cases, of which some are specific to industries (manufacturing, logistics, retail etc.) and to types of applications (e.g. smart home) and some are cross-industry (e.g. connected vehicles, wearables).
+
+It’s also important to understand that the Internet of Things is not just about technology but a reality, comprising various technologies and at the same time part of a broader technological and societal/business picture.
+
+With myriad technological and other elements such big data analytics, actuators, data hubs, artificial intelligence, connectivity, all sorts of sensors, IoT nodes, IoT gateways, networks (whereby the use case drives the choice of technology), the cloud, edge computing, information processes, business process optimization, people, smart goals, increasingly robotics, IoT platforms/middleware, new ecosystems of value, IoT data brokerage platforms and much more the Internet of Things enables an unseen new wave of innovation and optimization.
+
+
+
+The usage of the Internet of Things also happens at different speeds. IoT investments in the manufacturing industry, for instance, are far higher than in any other vertical industry and in the Consumer Internet of Things (CIoT) space (more about IoT in manufacturing).
+
+This is poised to change by 2020 although globally manufacturing will still account for the majority of IoT spend (hardware, software, services and connectivity).
+
+The manufacturing industry, along with transportation and utilities are the three main IoT investment areas and are part of what is known as the Industrial Internet of Things.
+
+The Internet of Things as an evolving reality
+
+Internet of Things spending top 3 industries 2016 and global Internet of Things spending forecast 2020
+
+Despite challenges, different speeds and the fast evolutions which we will see until the first years of the next decade, the Internet of Things is here.
+
+In business and industry, there are thousands of Internet of Things use cases and real-life Internet of Things deployments across a variety of sectors with the three industries which we just mentioned accounting for a more than significant part of deployments and investments as the image on the right shows.
+
+In the consumer space (consumer Internet of Things was the fourth largest segment in 2016) there are many thousands of devices and applications for a broad variety of purposes.
+
+The Internet of Things is a major force among the many phenomena and related technologies that show exponential growth in recent years and (will) result in digital transformation (initiatives).
+
+Predictions regarding the economic impact, sub segments, technologies and number of IoT-connected devices keep evolving as well.
+
+Even if for most people the number of IoT devices is not a relevant metric, it’s the one that gets most attention. Over the past few years predictions regarding the number of IoT devices by 2020 have been reviewed downwards. End 2016 most predictions varied anywhere between 20 and 30 billion devices by 2020 (more below).
+
+It has taken over two decades for the ‘concept’ of the Internet of Things (IoT) to become a reality that is impacting and will impact many areas of business and society as we will see further.
+
+55% of organizations see IoT as strategic to their business as a means to compete more effectively (IDC, 2016)
+
+Despite being a reality, the Internet of Things in general is still in its early days, regardless of massive attention, impressive forecasts and numbers, and major evolutions and deployments in many areas. However, if you look at the overall potential of what today we call the Internet of Things and in a few decades will probably have no more name at all, overall we are really just starting. Standards, technologies, maturity levels, devices and applications continue to evolve as various actors in the IoT ecosystem come up with platforms, new data analysis models and even evolving definitions and views to make IoT projects better and smarter. At the same time, challenges regarding regulation, security and data are being tackled – and even a universal IoT definition is still being debated.
+
+The origins of the Internet of Things: how it all started
+
+**The
+
+ idea of the Internet of Things goes back quite some time. We can even 
+
+go back a very long time but will begin at the end of the previous 
+
+Millenium where RFID has been a key development towards the Internet of 
+
+Things and the term Internet of Things has been coined in an RFID 
+
+context (and NFC), whereby we used RFID to track items in various 
+
+operations such as supply chain management and logistics.
+
+**
+
+The roots and origin of the Internet of Things go beyond just RFID. Think about machine-to-machine (M2M) networks. Or think about ATMs (automated teller machine or cash machines), which are connected to interbank networks, just as the point of sales terminals where you pay with your ATM cards. M2M solutions for ATMs have existed for a long time, just as RFID. These earlier forms of networks, connected devices and data are where the Internet of Things comes from. Yet, it’s not the Internet of Things.
+
+The role and impact of RFID
+
+In the nineties, technologies such as RFID, sensors and a few wireless innovations led to several applications in the connecting of devices and “things”. 
+
+Most real-life implementations of RFID in those days happened in logistics, warehouses and the supply chain in general. However, there were many challenges and hurdles to overcome, as we covered end 1999 in a white paper for a Belgian RFID specialist who targeted the logistics industry (mainly warehousing and industrial logistics as RFID was still expensive).
+
+An example of an RFID application – electronic toll collection – Wikipedia by user Gary D
+
+Gradually, the use of RFID (and along with it, several NFC or “near field communication”, wireless technologies), became popular in areas beyond logistics and supply chain management: from public transport, identification (from pets to people), electronic toll collection (see image), access control and authentication, traffic monitoring, retail to – back then – innovative forms of outdoor advertising. That growing usage was, among others, driven by the decreasing cost of RFID tags, increasing standardization and NFC.
+
+From RFID and M2M to IoT
+
+The possibility of tagging, tracking, connecting and “reading” and analyzing data from objects went hand in hand with what would become known as the Internet of Things around the beginning of this Millenium.
+
+It was obvious that the connection of the types of “things” and applications – as we saw them in RFID (and in M2M and more) – with the Internet would change a lot. It might surprise you but the concepts of connected refrigerators, telling you that you need to buy milk, the concept of what is now known as smart cities and the vision of an immersive shopping experience (without bar code scanning and leveraging smart real-time information obtained via connected devices and goods) go back since before the term Internet of Things even existed.
+
+Again, it took a long time. Furthermore, we shouldn’t reduce the Internet of Things to just these popular and widely known concepts, even if consumer-related attention for the IoT without a doubt has led to the grown attention for it as you’ll read further.
+
+The Internet of Things – infographic The Connectivist based on Cisco data – click for full image
+
+How the Internet of Things was coined in a context of RFID
+
+According to the large majority of sources, the term Internet of Things was coined in 1999 by Kevin Ashton, the co-founder of the MIT’s Auto-ID Center where a standard was developed for RFID, primarily from a retail perspective.
+
+Kevin Ashton – who reportedly coined the term Internet of Things – in 2015 – By Larry D. Moore, CC BY-SA 4.0
+
+RFID existed years before talked about the Internet of Things as a system, connecting the physical world and the Internet via omni-present sensors. It also already existed when he co-founded the Auto-ID Center (now called the Auto-ID labs) at MIT.
+
+Ashton, who was a marketer at P&G, wanted to solve a challenge he had seen before as Wired reports: empty shelves for a specific product. When shelves are empty, obviously no one can buy what’s supposed to be there. It’s a typical problem of logistics and supply chain. Ashton found the solution in RFID tags, which were still far too expensive to be able to put them on each product. When the MIT Auto-ID Center was launched, funded by the major global retail brands who understood the challenge and obvious benefits of a solution, he was ‘loaned’ by P&G and became the executive director at that Center as Wired explains.
+
+The rest is a standard system, solving miniaturization challenges, lowering RFID tags prices and…history.
+
+Defining IoT – many approaches
+
+The Internet of Things is the interconnected sphere of physical devices with the Internet and other networks through uniquely identifiable IP addresses, whereby data is gathered and communicated through embedded sensors, electronics and software. 
+
+The IoT is the network of physical objects that contain embedded technology to communicate and sense or interact with their internal states or the external environment (Gartner’s definition)
+
+Physical
+
+ devices are either designed for the Internet of Things or are assets, 
+
+including living beings, which are equiped with data sensing and 
+
+transmitting electronics. Beyond this endpoint dimension with devices, 
+
+sensors, actuators and communication systems, the Internet of Things is 
+
+also used to describe what is effectively done with the data acquired 
+
+from connected things.**
+
+**
+
+The Internet of Things describes a range of applications, protocols, standards, architectures and data acquisition and analysis technologies whereby devices and items (appliances, clothes, animals,….) which are equipped with sensors, specifically designed software and /or other digital and electronical systems, are connected to the Internet and/or other networks via a unique IP address or URI, with a societal, industrial, business and/or human purpose in mind. As you can read below, data and how they are acquired, analyzed and combined into information value chains and benefits are key in it. In fact, the true value of the Internet of Things lies in the ways it enables to leverage entirely new sources and types of data for entirely new business models, insights, forms of engagement, ways of living and societal improvements.
+
+Internet of Things is an umbrella term and, as mentioned, often a distinction is made between the Consumer Internet of Things (CIoT) and the Industrial Internet of Things (IIoT). We cover both below as they are still often used. However, CIoT and IIoT cover many use cases and applications as well and thus are umbrella terms too. Furthermore, there are overlaps between both.
+
+We see the Internet of Things more from an Internet of Everything perspective, which is again part of a broader context. What this means is explained further below. The Internet of Things is not a thing. Data which is acquired, submitted, processed or sent to devices, in most cases travels across the Internet, fixed lines, across cloud ecosystems or via (tailored) wireless connectivity technologies which are developed for specific applications of IoT (e.g. wireless technologies for the IIoT).
+
+The Internet of Things as part of the Internet of Everything – everything connected in a large distributed network
+
+Bridging digital, physical and human spheres through networks, connected processes and data, turned into knowledge and action, is an essential aspect in this equation. In recent years the focus in the Internet of Things has shifted from the pure aspect of connecting devices and gathering data to this interconnection of devices, data, business goals, people and processes, certainly in IIoT.
+
+Common elements in the IoT
+
+Most IoT definitions have several aspects in common. Here are the elements they have in common:
+
+Internet of Things Connectivity
+
+Everyone talks about a network (of devices, sensors or objects, depending on the source). It’s pretty clear that a dimension of networks and connectedness, we would even say hyper-connectedness, needs to be present in any decent IoT definition. The discussion then becomes if it’s “just” about the Internet or also about other networks. You know the answer. Obviously, the dimension of automation is an important one in many Internet of Things use cases, from a connectivity perspective too.
+
+The Things in the Internet of Things
+
+Devices, physical objects, sensors, the physical world, appliances, endpoints, the list goes on. They are all terms to describe what is obviously an essential part of a network of things. Some add words such as smart or intelligent to the devices. Let’s say that they contain technology that grants them an additional capability of ‘doing something’: measuring temperature or moisture levels, capturing location data, sensing movement or capturing any other form of action and context that can be captured and turned into data.
+
+Defining the Internet of Things using 7 characteristics
+
+The Internet of Things and Data
+
+This is part of that intelligent notion but it also brings us far closer to the essence. You can define the Internet of Things by simply describing all characteristics (“what it is”) but you also need to look at its purpose (“the why”). Data is a crucial part of this equation, albeit just a first step as data as such is not enough. However, there is no Internet of Things without (big) data.
+
+Communication in the Internet of Things
+
+Data as such is maybe not without value but it sure is without meaning unless it is used for a purpose and it is turned into meaning, insights, intelligence and actions. Maybe you heard about the good old DIKW model (from data to information to knowledge to wisdom – and action)? Well, the data gathered and sensed by IoT devices needs to be communicated in order to even start turning it into actionable information, let alone knowledge, insights, wisdom or actions.
+
+Internet of Things, Intelligence and action
+
+We just touched upon this aspect. However, in most definitions we see that intelligence is attributed to just the network(s) and/or the devices. While we certainly need, for instance, ‘intelligent networking technologies’ in many cases and while connected devices have a capacity of action, the real intelligence and action sits in the analysis of the data and the smart usage of this data to solve a challenge, create a competitive benefit, automate a process, improve something, whatever possible action our IoT solution wants to tackle. Just as there is no Internet of Things without (big) data, there is no useful Internet of Things deployment without understanding meaning, intelligence, (big) data analytics, cognitive and AI and so on.
+
+Automation
+
+There is always a degree of automation, no matter the scope of the project or the type of Internet of Things application. In fact, most IoT applications are essentially all about automation. And that often comes with costs and benefits. Industrial automation, business process automation or the automatic updating of software: it all plays a role, depending on the context. You know the saying: software eats the world. Well, it also drives Tesla cars and soon autonomous vehicles whereby maintenance, upgrades and so forth are all about automation and software, powered by data which are fed by sensors and connected devices.
+
+Ecosystem
+
+Meaning and hyper-connectedness is what we miss in many answers on the questions regarding what the Internet of Things is. We stay too descriptive and focused on just the technologies and don’t look at purpose and intelligent action enough. Obviously we can say that this isn’t strictly about the Internet of Things but more about the Internet of Everything or the Internet of Things ecosystem or something else but for us it’s key in order not to confuse the Internet of Things with a bunch of fitness devices that are connected with some app, for instance. Because, although these are the kinds of apps most people speak about, they certainly are where the majority of Internet of Things use cases are and they are the furthest away from the original meaning of the Internet of Things.
+
+The Internet of Things in flux
+
+While the above mentioned elements come back in all Internet of Things definitions there are a few we miss that are essential in the evolving views regarding the Internet of Things as it moves from devices and data to outcomes and actionable intelligence, and ultimately to a hyper-connected world of digital transformation (DX) and business.
+
+
+
+The aspect of hyper-connectivity and integration often lacks. In a context of a reality whereby devices, people, processes and information are more interconnected than ever before; an Internet of Things definition and approach just needs to mention these aspects as the Internet of Things is part of something broader and is more about data, meaning and purpose than about objects. A key element of that hyper-connectivity in the Internet of Things sphere is that sometimes mentioned ongoing bridging of digital and physical environments, along with human environments, processes and data as the glue, enabler and condition to create value when properly used for connected purposes.
+
+Then there is also the possibility to create new ecosystems where connected device usage by groups of people can lead to new applications and forms of community ecosystems. Last but not least and we’ve mentioned this often before: no Internet of Things without security.
+
+Virtually everyone agrees that in the next decade, in 2020 and beyond, we will decreasingly speak about the Internet of Things.
+
+The Internet of Things is a misnomer in two senses.
+
+1. First, the things don’t describe the essence of what it truly means and make it seem like a thing that is composed of connected things. However, as said it is not a thing as it’s often referred to in popular media. On top of covering a vast connected ecosystem of myriad technologies, platforms and other components as such, the Internet of Things also fits in a technological and organization context whereby actionable intelligence is at the core of human and business value creation opportunities. The Internet of Things has no purpose nor means to exist without all these aspects.
+2. Secondly, after years of future visions around very old concepts and ideas such as connected refrigerators, the current fascination with the possibilities that arise as a result of connecting ‘things’, the ‘connected things’ aspect will move to the back and IoT will be seen just as we look at the Internet today: an obvious phenomenon of increased connectivity that is like electricity. What is behind it, the sensors, the devices, the protocols, the essential possibilities, will not matter, except to people who need to realize Internet of Things projects in real life and watch over the technology aspect within frameworks of regulations, meaning and security.
+
+The question and evolution increasingly will not be about the Internet of Things but about the broader digital transformation economy picture with outcomes and integration in mind and de facto overlapping sets of technologies being a given.
+
+What is the IoT? A visual answer
+
+**To
+
+ end this part on definitions and descriptions, here is a good 
+
+illustration of the vast reality of the Internet of Things – and at the 
+
+same time an illustration of what it means.
+
+**
+
+Internet of Things map – source Internet of Things Applications USA – click here for a larger version
+
+The top right section clearly shows the Internet of Things: smart objects with an IP address which can sense (depending on use case, gather data on various parameters such as location, temperature, moisture level and dozens of more possibilities). This data gets sent for processing or analyzed at the source.
+
+The upper left section is the ‘Internet of People’. Think about everything you use to connect with the Internet, such as your smartphone. It’s in the meeting of this sphere and the Internet of Things that most Internet of Things consumer applications today get born. Several so-called Consumer IoT (CIoT) applications such as wearables can’t live without smartphones. Moreover, for several control and monitoring activities you’ll need some sort of device such as a tablet, for example in a smart home context.
+
+The sphere at the bottom of the image is composed of all connected objects that do not have an IP address and do not belong to the Internet of Things. They exist since a long time, mainly in the sphere of industrial Internet and we see them migrate to the Industrial Internet of Things (IIoT). Replacing such devices or tagging them so they become IoT-enabled is a part of what happens in IIoT.
+
+The definition of the Internet of Things: an evolving reality
+
+The definition of the Internet of Things is in evolution in several ways:
+
+- Industry bodies are updating Internet of Things definitions and descriptions in a field that is still lacking standardization.
+- The market is evolving and changing views and definitions as well. Whether it concerns analysts or companies, which are very active in the IoT space: many of them have invented their own terms.
+- There is a shift in the way we think about the Internet of Things. You can define things based upon what they are and what they are not. You can also define them by focusing on their characteristics. And, as far as we’re concerned the most important question to answer in a definition: why and how do we use “something”?
+- We look less at the ‘things’ and technologies of the Internet of Things and more at the broader reality and context in which the Internet of Things fits. The many use cases and the focus on outcomes (services) become more essential.
+
+While the Internet of Things – and we weigh our words – as a ‘reality’ has benefits and consequences many can’t grasp yet, we need to change the narrative and look at IoT from the holistic perspective of:
+
+1. How it is connected with people, processes, data, business, innovation, meaning, etc.
+2. The outcomes and goals from an integrated view, with regards to ecosystems of value, of related technologies and of business and platform ecosystems.
+
+And we need to learn from the many projects, cases and IoT examples out there.
+
+The exponential growth of the Internet of Things
+
+As we saw earlier the Internet of Things still has a long way to go and the growth of connected devices or “intelligent things” will continue to rise exponentially over the coming years, as multiple challenges get solved. 
+
+In
+
+ that sense it is safe to say that, despite the fact that we’ve been 
+
+talking about the Internet of Things for a long time and the fact that 
+
+IoT in many industries is a reality, we are still in the early years. 
+
+Although it is expected that, as a term and concept, the Internet of 
+
+Things will dissapear and just become part of a new normal, we are far 
+
+from there. Note, however, that in a business context it’s best to focus
+
+ on goals and use cases when trying to get projects accepted and done 
+
+than to speak about the IoT.**
+
+**
+
+With the exponential growth, enabled by what Gartner would call a “nexus of forces”, comes growth in many other areas such as traffic, storage, processing capacity, data volumes, network capabilities, you name it.
+
+The Internet of Things exists in many industries, applications and contexts. Some projects are still in the pilot stage while others form the backbone of important processes, operations and innovations. In other words: the Internet of Things is certainly here but the degree in which it is changing the ways we live, work and conduct business depends on the context.
+
+Predictions on the number of connected devices – a changing picture
+
+The exact predictions regarding the size and evolution of the Internet of Things landscape tend to focus on the number of devices, appliances and other ‘things’ that are connected and the staggering growth of this volume of IP-enabled IoT devices, as well as the data they generate, with mind-blowing numbers for many years to come.
+
+Number of IoT-connected devices – 46 billion by 2021
+
+It makes it look as if the Internet of Things is still nowhere. Make no mistake though: it is already bigger than many believe and used in far more applications than those which are typically mentioned in mainstream media.
+
+At the same time it is true that the increase of connected devices is staggering and accelerating. As we wrote the first edition of this Internet of Things guide, approximately each single hour a million new connections were made and there were about 5 to 6 billion different items connected to the Internet. By 2020, Cisco expected there would be 20 billion devices in the Internet of Things. Estimations for 2030 went up to a whopping 50 billion devices and some predictions were even more bullish, stating that by 2025 there will be up to 100 billion devices.
+
+The truth is that we will have to wait and see and that by the time we have written about recent predictions, new ones are already published. Moreover, different research means different numbers and it is important to distinguish between IoT devices, IoT endpoints and connected devices although often IoT devices and connected devices are often used interchangeably.
+
+When we first wrote this overview Gartner estimated that by 2020 we would live in a world with over 26 billion connected devices. As the image below indicates Cisco back then predicted that 37 billion intelligent things would be connected to the Internet by 2020 (earlier the company talked about 50 billion) and some even went over 200 billion. At the end of 2016 forecasts ranged  anywhere between 20 and 30 billion connected (IoT-enabled) devices in 2020.
+
+According to Juniper Research (data end 2016), the number of connected IoT devices, sensors and actuators will reach over 46 billion in 2021.
+
+According to Cisco more than 99 percent of things in the physical world are not connected to the Internet yet – read the full article
+
+A variety of sources and predictions in context
+
+Regardless of the exact numbers, one thing is clear: there is a LOT that can still be connected and it’s safe to assume we’ll probably reach the lower numbers of connected devices (20-30 billion) by 2020.
+
+The variety of sources and pace at which data about the expected number of connected devices is released is so big that we plan a section with forecasts from several sources, nicely dated, so you can stay up-to-date.
+
+There are several reasons why these predictions differ so much. Among them are certainly various uncertainties and challenges regarding the Internet of Things which are further fuelled by impactful events regarding among others security and privacy. And then there is the fact that the Internet of Things obviously also gets hyped by those who have an interest in doing so (such as companies selling Internet of Things solutions). This doesn’t mean that the Internet of Things is a hype as such (it has been at the beginning of this Millennium). However, the realities, data and even definitions regarding Internet of Things are so vast that all predictions are really merely attempts, often fitting in a hypish perspective.
+
+**Internet of Things: looking beyond the hype of data and predictions
+
+Impact, data and outcomes before devices
+
+Moreover, it’s not that much the growth of connected devices which matters but how they are used in the broader context of the Internet of Things whereby the intersection of connected and IP-enabled devices, big data (analytics), people, processes and purposeful projects affect several industries.
+
+Also the data aspect is critical (again with mind-blowing forecasts) and how all this (big) data is analyzed, leveraged and turned into actions or actionable intelligence that creates enhanced customer experience, increased productivity, better processes, societal improvements, innovative models and all possible other benefits and outcomes. The impact of the IoT from a sheer data volume and digital universe perspective is amazing.
+
+The number of Internet of Things devices in the overall connected devices landscape
+
+According to the Ericsson Mobility Report 2016, there will be approximately 28 billion connected devices by 2021. The report expects the Internet of Things to surpass mobile phones as the largest category of connected devices with 16 billion connected devices being IoT devices (of the the forecasted total of 28 billion, which include for instance smartphones as we mentioned in our article on mobile and mobility.
+
+IoT devices are about to to surpass mobile phones as the largest category of connected devices – source Ericsson Mobility Report 2016
+
+Reasons for the exponential growth of the Internet of Things
+
+So, why this exponential growth of the Internet of Things and, admittedly, equally exponential growth of the attention for it, sometimes feeling like a hype?
+
+Well, first of all Internet of Things today is effectively hyped (yet, at the same time very real). Gartner’s latest Hype cycle for emerging technologies shows that the Internet of Things is at the peak of inflated expectations (while NFC is reaching the slope of enlightenment).
+
+There are numerous reasons for the growing attention for the Internet of Things. While you will often will read about the decreasing costs of storage, processing and material or the third platform with the cloud, big data, smart (mobile) technologies/devices, etc. there certainly is also a societal/people dimension with a strong consumer element.
+
+A factor that has also contributed a lot to the rise of the Internet of Things, certainly in a context of the industrial Internet of Things and smart buildings, to name a few, is the convergence of IT and OT (Operational Technology) whereby sensors, actuators and so forth remove the barriers between these traditionally disconnected worlds.
+
+The Internet of Things and NFC in Gartners Hype Cycle for emerging technologies
+
+The Internet of Things: many terms and many flavors
+
+As companies increasingly started investing in Internet of Things technologies and scalable Internet of Things deployments instead of just pilot projects it quickly became clear that the Internet of Things as a term covered completely different realities which have little in common.
+
+The majority of the Internet of Things hype focused on consumer-oriented devices such as wearables or smart home gadgets. Yet, we can’t repeat it enough, there is a huge difference between a personal fitness tracker and the usage of IoT in industrial markets such as manufacturing where the IoT takes center stage in the vision of Industry 4.0 (you can for instance think about IoT-connected or IoT-enabled devices such as large industrial robots or IoT logistics systems).
+
+That’s why a distinction was made between the Industrial Internet of Things and the Consumer Internet of Things to begin with. However, here as well there were overlaps and in the end difficulties as always when you start segmenting realities. A broad range of new terms were invented to explain various existing and emerging forms of Internet of Things usage: the Internet of Robotic Things, the Internet of Medical Things, the list goes on.
+
+At the same time some vendors of Internet of Things solutions started coming up with alternative terms. The best known one is Cisco’s Internet of Everything, which aimed to stress the role of people, data, processes etc.  While all these (and many more) efforts tried to make the Internet of Things more tangible in the end we see that since 2016-2017 most people and firms (including Cisco) simply start talking about the IoT again. The usage of the term Industrial Internet of Things (or Industrial Internet) is also making place for the broader context of Industry 4.0 of which the Internet of Things is a part of the reality which we described.
+
+A deeper look at some of these main Internet of Things ‘subsets’
+
+
+
+The Industrial Internet of Things (IIoT)
+
+The Internet of Things, the Internet of Everything, the Consumer Internet of Things, so many terms that it becomes confusing.
+
+The main value and applications are found in the so-called Industrial Internet of Things or IIoT. In all honesty one of the main reasons why we started talking about the Industrial Internet of Things is to distinguish it from the more popular view on the Internet of Things as it has becoming increasingly used in recent years: that of the consumer Internet of Things or consumer electronics applications such as wearables in a connected context or smart home applications.
+
+
+
+Industrial Internet of Things definition
+
+The Industrial Internet of Things is defined by the Industrial Internet Consortium as ‘machines, computers and people enabling intelligent industrial operations using advanced data analytics for transformational business outcomes” as you can also see in the infographic below.
+
+What industries are covered? Some people mainly look at ‘heavy’ industries such as manufacturing, oil and gas, transportation. Others also add ‘less heavy’ smart city or smart agriculture applications into account. Sometimes there is a bit a thin line because of course you can also have very simple applications in smart cities.
+
+What is crucial in the Industrial Internet of Things or IIoT is the mentioned integration (of the worlds of) IT (information technology) and OT (operational technology).
+
+For now, IIoT is the most important segment in the Internet of Things, much more than consumer applications, for instance.
+
+Industrial Internet of Things use cases, benefits and challenges
+
+The Industrial Internet of Things is related with Industry 4.0: all Internet of Things applications in Industry 4.0 are forms of IIoT but not all IIoT use cases are about the industries which are categorized as Industry 4.0. 
+
+Typical use cases of the Industrial Internet of Things include smart lightning and smart traffic solutions in smart cities, intelligent machine applications, industrial control applications, factory floor use cases, condition monitoring, use cases in agriculture, smart grid applications and oil refinery applications.
+
+So, even if the term is not so much an umbrella term as the Internet of Things is, it still covers many potential applications and use cases.
+
+Benefits of IIoT – the Industrial Internet of Things drivers
+
+A lot of organizations are considering IIoT applications and many have already started, certainly in early moving markets such as manufacturing or oil and gas. But others are still waiting or uncertain.
+
+According to research from IDG in 2016, 70 percent of organizations are still in the “consideration”, “early discussions” or “planning phase” as the infographic below indicates.
+
+And this despite the many opportunities, among others in regards with business continuity, efficiency, cost reductions etc.
+
+But there are also many challenges, not in the least in regards with industrial data as you can also see in the infographic and the page of Visual Capitalist, who made it.
+
+**More about the Industrial Internet of Things
+
+ 
+
+The Industrial Internet of Things – IIoT barriers and opportunities according to Visual Capitalist
+
+The opportunities and difference of IIoT
+
+It’s important to know that the Industrial Internet of Things is not just about saving costs and optimizing efficiency though. Companies also have the possibility to realize important transformations and can find new opportunities thanks to IIoT.
+
+Those who can overcome the challenges, understand the benefits beyond the obvious and are able to deal with the industrial data challenge have golden opportunities to be innovative, create competitive benefits and even entirely new business models in Industry 4.0.
+
+Below is a presentation that explains the Industrial Internet of Things and also how the IIoT is different than other Internet of Things applications, for instance in the consumer space.
+
+Additional resources on the Industrial Internet of Things
+
+- The state of the Industrial Internet of Things market
+- The industrial IoT revolution in continuous industry transformation
+- The Industrial Internet versus the Industrial Internet of Things
+- The Industrial Internet of Things market poised to reach 123.89 billion USD by 2021
+
+ 
+
+ 
+
+
+
+The Consumer Internet of Things (CIoT)
+
+Give or take 5 years ago, consumers rarely saw what the Internet of Things would mean to their private lives. Today, they increasingly do: not just because they are are interested in technology but mainly because a range of new applications and connected devices has hit the market.
+
+These devices and their possibilities are getting major attention on virtually every news outlet and website that covers technology. Wearables and smart watches, connected and smart home applications (with Google’s Nest being a popular one but certainly not the first): there are ample of you know the examples.
+
+Nest 3rd Gen thermostat – source
+
+Although it is said that there is some technology fatigue appearing, the combination of applications in a consumer context and of technology fascination undoubtedly plays a role in the growing attention for the Internet of Things. That consumer fascination aspect comes on top of all the real-life possibilities as they start getting implemented and the contextual and technological realities, making the Internet of Things one of those many pervasive technological umbrella terms. Obviously, the Consumer Internet of Things market is not just driven by new technology fascination: their manufacturers push the market heavily as adoption means news business possibilities with a key role for data.
+
+The Consumer Internet of Things and consumer electronics
+
+With the Consumer Internet of Things we are strictly in a consumer electronics reality.
+
+47% of consumers are concerned about privacy and security issues regarding the Internet of Things
+
+While some of the applications in this space already are popular (fitness and personal health, for instance), the real growth still needs to come.
+
+Below are some consumer electronics challenges to tackle first:
+
+- Smarter devices. Consumers are waiting for smarter generations of wearables and Internet of Things products, which are able to fulfil more functions without being too dependent from smartphones, as is the case with many of such devices today* (think the first generations of smartwatches, which need a smartphone).*
+- Security. Consumers don’t trust the Internet of Things yet, further strengthened by breaches and the coverage of these breaches. Moreover, it’s not just about the security of the devices but also about, among others, the security of low data communication protocols (and Internet of Things operating systems). An example: home automation standard Zigbee was proven easy to crack in November 2016.
+- Data and privacy. On top of security concerns, there are also concerns regarding data usage and privacy. The lack of trust in regards with data, privacy and security was already an issue before these breaches as we cover in our overview of the consumer electronics market evolutions.
+- A “compelling reason to buy”. The current devices which are categorized as Consumer Internet of Things appliances are still relatively expensive, “dumb” and hard to use. They also often lack a unique benefit that makes consumers massively buy them.
+
+The Consumer Internet of Things market: focus on experiences and benefits
+
+Whereas the focus of the Industrial Internet of Things is more on the benefits of applications, the Consumer Internet of Things is more about new and immersive customer-centric experiences.
+
+Consumer Internet of Things purchases, the fourth largest market segment in 2016, will become the third largest segment by 2020 (IDC, 2017)
+
+It is expected that the market will really start picking up as of end 2017 or 2018, when the Consumer Internet of Things will grow rapidly across several types of devices and applications, once manufacturers are able to meet the various challenges.
+
+As mentioned, the Consumer Internet of Things typically is about smart wearables and smart home appliances but also about smart televisions, drones for consumer applications and a broad range of gadgets with Internet of Things connectivity.
+
+It’s important to note that de facto the Consumer Internet of Things overlaps with the use of the Internet of Things across several industries.
+
+On top of examples such as smart meters, as explained above, it is clear that the CIoT offers manufacturers of devices and applications important opportunities to leverage data to build new revenue streams and even new partnerships and ecosystems to leverage this data in various ways. Data privacy and security will remain a challenge for several years to come but at the same time new generations of devices with clear benefits and a focus on the consumer experience will boost the market.
+
+**Internet of Things consumer device ownership research
+
+ 
+
+Connected consumer device buying interest as per December 2016
+
+RFID in the lives of consumers
+
+RFID has come a long way. Even if you don’t know what it means, you “use” it.
+
+Examples? Electronic door locks, many modern credit cards, identification cards with RFID, the list is long.
+
+RFID is even used so much that end 2014, security firm Norton and Betabrand designer Steven B. Wheeler joined forces to create the world’s first RFID (and NFC) blocking jeans to avoid theft of data.
+
+Additional resources on the Consumer Internet of Things
+
+- Wearables market outlook 2020: drivers and new markets
+- The smart home: coming but not here yet – outlook
+
+Internet of Things in business: the Internet of Everything (IoE)
+
+**The Internet of Everything is a term that was coined by Cisco but is also used by other companies.
+
+**
+
+The Internet of Things focuses too much on the things and, as mentioned, is also very broadly used. It’s why some started distinguishing between the just mentioned Consumer Internet of Things and the Industrial Internet of Things.
+
+Cisco and other prefer to use the term Internet of Everything, partially because of that umbrella term issue, partially because of the focus on things and partially to provide context to their views and offerings. But it’s not just marketing. The Internet of Everything or IoE depicts crucial aspects of IoT, namely people, data, things and processes; in other words: what makes a business. It’s this mix that matters. Moreover, the classic illustration of the Internet of Everything also made clear what, for instance, machine to machine or M2M is all about.
+
+We’ve based ourselves on that classic depiction and added the dimensions of value and data analysis.
+
+**More about the Internet of Everything
+
+ 
+
+Internet of Everything – definition, value, people, processes, data, devices
+
+Internet of Things and robots: the Internet of Robotic Things (IoRT)
+
+Are you ready for another term? Here we go: meet the Internet of Robotic Things, aka IoRT. What is about?
+
+One of the major characteristics of the Internet of Things is that it enables to build far stronger bridges between physical and digital (cyber) worlds. You see it in all IoT use case and in the Industrial Internet of Things you see it in what’s called the Cyber Physical Systems.
+
+Yet, in most case, the focus is predominantly on the ‘cyber’ part whereby data from sensors essentially are leveraged to achieve a particular outcome with human interference and with a focus on data analytics and ‘cyber’ platforms. The way it happens, as ABI Research, who came up with the IoRT concept (which is real today) puts it is that essentially many applications and business models are built upon passive interaction.
+
+The Internet of Robotic Things market is expected to be valued at USD 21.44 Billion by 2022
+
+By adding robotics to the equation and turning devices (robots) in really intelligent devices with embedded monitoring capabilities, the ability to add sensor data from other sources, local and distributed intelligence and the fusion of data and intelligence in order to allow these devices determine actions to take and have them take these actions, within a pre-defined scope, you have a device that can control/manipulate objects in the physical world.
+
+
+
+Sounds complex or too futuristic? Examples in the space of Industry 4.0 (with collaborative industrial robots), warehouse automation (Amazon Robotics) and even personal robots for cleaning and so forth make it more tangible. It’s still early days for the IoRT but the projects and realizations in this next stage are real. IoRT is not tied to the consumer and industrial IoT distinction, it’s ubiquitous. Definitions, sources, market data and the mentioned examples via the button below.
+
+**The Internet of Robotic Things
+
+Internet of Things business across industries: sectors and use cases
+
+Cross-Industry Internet of Things investments, which represent use cases common to all industries, such as connected vehicles and smart buildings, will rank among the top segments by 2020 (IDC)
+
+**Previously
+
+ we mentioned how the Internet of Things today already is a reality in 
+
+several industries, more so than in consumer applications. However, the 
+
+landscape evolves fast.
+
+**
+
+The Internet of Things is used in various industries for numerous use cases which are typical for these industries. On top of that, there is a long list of Internet of Things use cases that is de facto cross-industry.
+
+As the Internet of Things is embraced and deployed at different speeds throughout consumer and industrial sectors, we take a look at some of the main industries and use cases which drive the Internet of Things market and Internet of Things projects.
+
+Patterns and shifts in the vertical industry and Internet of Things use case spend
+
+Note that the biggest and/or fastest growing use cases are not always related to the biggest and/or fastest growing industries in terms of Internet of Things spending.
+
+While it is expected that in terms of use cases there will be high growth in consumer-related use cases such as personal wellness and smart home applications, the largest majority of spending is and will be done by enterprises.
+
+Among the reasons for this phenomenon: 
+
+- The costs and scope of the investments. A full-blown, enterprise-wide Internet of Things project in industrial settings such as manufacturing or logistics is far more expensive than a smart home implementation.
+- The shifts in the major Internet of Things use cases and industries. Remember that the Internet of Things mainly started as an industrial and business sector phenomenon. Industries with many existing physical assets can realize fast cost savings and efficiencies of scale. That’s why today they spend more in Internet of Things projects than consumer segments where we see more ‘new’ devices, rather than existing assets.
+- The Consumer Internet of Things catching up. As industries keep leading the current waves of Internet of Things spending until 2020, the fact that they started first and the advent of ever more consumer use cases and better (safer and more useful) solutions means that gradually consumer Internet of Things catches up with Industrial Internet of Things spending.
+- The rise of cross-industry Internet of Things applications and of scenarios whereby consumers and businesses meet each other in business-driven initiatives (for instance, the push for telematics in insurance, the push for smart meters in utilities) has a levelling effect on the adoption of the Internet of Things and on spending.
+
+The top industries driving the Internet of Things 2016-2020
+
+According to Internet of Things spending data and forecasts, published early 2017 by IDC, the 3 main industries in terms of IoT spending in 2016 were, respectively, manufacturing, transportation and utilities. Consumer Internet of Things spending ranked fourth.
+
+While globally in the period until 2020, manufacturing will remain the major industry (except in Western-Europe) there will be global changes in this top 3. Among the fastest growing industries in the period until 2020 are insurance, healthcare, retail, consumer and, as mentioned, cross-industry initiatives.
+
+Obviously, there is a difference between Internet of Things spend and number of Internet of Things projects. 
+
+A report by IoT Analytics, really a list of 640 real-life Internet of Things projects, indicates that from the perspective of number of projects connected industry ranks first but is closely followed by smart city implementations (where we mentioned the report), which rank second.
+
+Why this difference? On top of the fact that various firms use various approaches and definitions (even if you compare spending forecasts instead of spending and projects as we do here), there is the very simple fact that many smart city projects tend to be far cheaper than industrial counterparts. In most smart city projects, low data bandwidth is needed and equipment, depending on use cases is far cheaper. As an example: the – for now – cheapest connectivity technology over longer ranges, LPWAN, is predominantly found in smart city projects.
+
+Major Internet of Things industries and use cases 2016 – 2020 – IDC data
+
+**More on IDC'S forecasts
+
+Internet of Things in manufacturing
+
+Given the “origins” of the Internet of Things (remember RFID) and the most typical (early) use cases, manufacturing (for now) is still taking the lead.
+
+Global manufacturers will invest $70 billion on Internet of Things solutions in 2020 (BI Intelligence)
+
+According to the same IDC data we mentioned earlier, published early 2017, the manufacturing industry was good for a total Internet of Things spend of $178 billion in 2016, which is more than twice as much than the second largest vertical market (in spend), transportation.
+
+Gartner analyst Jim Tully said that there were 307 million installed units at the time of the Q&A in the manufacturing industry where systems with sensors have always been embedded into manufacturing and the automation processes. In a May 2015 forecast on the worldwide growth of the Internet of Things market (poised to grow 19% in 2015) IDC forecasted that the Internet of Things market in manufacturing operations will reach $98.8 billion in 2018. Drivers: efficiency optimization and “linking islands of automation”.
+
+Manufacturing operations – the main Internet of Things manufacturing use case in 2016 accounted for over 57 percent of total IoT spend in manufacturing
+
+According to a February 2015 report by PwC, the majority of US manufacturers has deployed devices to collect, analyze/measure and act upon data. The infographic which came with the report, mentioned data from a survey conducted in February 2014. According to that survey 34.6 percent of respondents had already implemented devices and sensors to gather this data and another 9.6 percent was about to implement Internet of Things devices within a year. Only 24 percent of all respondents from the US manufacturing industry said they had no plans to implement devices to collect, analyze and act upon data.
+
+66 percent of early-movers in manufacturing say the Internet of Things is now critical to competitive advange (Verizon, source see below)
+
+US manufacturers were using Internet of Things Technology in the manufacturing plant (32 percent), followed by the warehouse, the extended supply chain and the customer environment.
+
+When looking at the usage of the Industrial Internet of Things and manufacturing, also note the importance of cyber-physical systems (sometimes used interachangeably with IIoT, which is not correct) and the notion/reality of digital twins in the Industrlal Internet and Industry 4.0.
+
+Internet of Things in manufacturing: use cases
+
+Internet of Things use cases in manufacturing cover a broad range of applications, including:
+
+The graphic from Verizon’s “State of the Market: Internet of Things 2016“, below shows some data and benefits across several use cases.
+
+Internet of Things in manufacturing – source Verizon 2016
+
+**More about the Internet of Things in manufacturing
+
+The Internet of Things in the retail business
+
+Retail is moving up fast, both in operations and customer-facing circumstances as Tully says.
+
+In its mentioned forecast on the worldwide growth of the Internet of Things market, IDC also emphasized retail in an ongoing effort to digitize the consumer experience. Digital signage in retail outlets is in fact the big driver in 2015, IDC found. Also remember how the term Internet of Things was first mentioned in a context of supply chain management in retail and consumer goods environment. It is mainly in the optimization of processes and of logistics that the Internet of Things offers immediate benefits to retailers. However, obviously the customer-facing and inventory-related aspects matter a lot too.
+
+The use of the Internet of Things in retail, among others, changes customer experience, leads to better customer insights, enables new collaborations and business models and further blurs the line between digital and physical in an in-store context.
+
+Internet of Things in retail – positive experiences reported by early movers – source Verizon: “State of the Market – Internet of Things 2016”
+
+Retailers are working with the Internet of Things for several innovative and immersive approaches, ranging from virtual closets and self-checkouts to smart shelves (inventory accuracy) and connected vending machines.
+
+**More about the Internet of Things in retail
+
+The Internet of Things in government and cities
+
+The Internet of Things is already used across several government activities and layers as digital transformation efforts rank high on the government transformation priority list. Obviously, the government sector is a very vast ecosystem and so are the many Internet of Things use cases in government.
+
+On top of the use of the Internet of Things for national, regional, supra-national, local and government-related services (often delivered by government agencies or regulated, semi-regulated and state-sponsored service providers), the Internet of Things sooner or later often involves government. Think about regulations, for instance. Or the role of governments in energy. And let’s not forget security and safety.
+
+Smart cities and citizen-facing public services
+
+Probably the best-known usage of the Internet of Things in a government context concerns smart cities, in reality mainly smart city applications.
+
+Smart city projects are what people hear about most and they get a lot of attention, among others because smart city applications are close to the daily lives of residents. Another reason why smart cities are often mentioned is that de facto smart city projects account for a big portion of Internet of Things deployments. Think about smart waste management *(often a local matter), *smart parking and environment monitoring.
+
+
+
+**More about smart cities
+
+Another area where we see the Internet of Things popping up is in citizen-facing public services.
+
+To a large extent smart city uses cases overlap with Internet of Things use cases in public services as one of the key tasks of a city is to serve the citizens. However, with public services we also go beyond the local/urban level. The degree of overlap depends on the way government services are organized in a particular country or region. Internet of Things initiatives in citizen-facing public services include the already mentioned local ones but also smart energy (often with state-sponsored partners), for instance.
+
+Improving citizen satisfaction is the main objective when considering or implementing the Internet of Things and other emerging technologies – source Accenture infographic
+
+**More about IoT and public services
+
+Infrastructure, healthcare, safety and security
+
+Public services brings us to infrastructure. Again, this is a broad category which can be organized by several partners in the government ecosystem. Smart grid is an example, smart roads another one (in cases where road infrastructure is a national or ‘shared’ matter). But also think about applications such as toll collection.
+
+Next there is safety and security. On a national level this certainly also includes defense and the industrial-military complex. On more regional levels we see applications such as smart lighting (there is a link between lighting of public spaces and crime), various forms of identity control, surveillance and so on. Last but not least, there is the role of the Internet of Things in security alerts, fighting natural disasters etc.
+
+That brings us to healthcare, another sector going through digital transformation, and closely related with government. Healthcare is organized differently across the globe, from funding to healthcare insurance and actual care. However, there is always a government component. Healthcare is a key Internet of Things market.
+
+Moreover, governments have a role in public health which can be enhanced by taking initiatives using the Internet of Things and in collaboration with private an state-sponsored partners. The same goes for public safety by the way. An example: collaborations between governments and insurance firms, leveraging telematics.
+
+The omnipresence of the Internet of Things in government – opportunities, regulation and challenges
+
+There are really hundreds of ways in which governments leverage and can leverage the Internet of Things to improve citizen experience, realize cost savings and, not to forget, generate new revenue streams.
+
+The latter is quite important as many IoT projects have an impact on the funding of cities. A simple example: if you have a perfectly working smart parking solution in a city, you lose revenues for all the obvious reasons. So, it’s not just a matter of technologies but also of finding creative ways to turn enhanced citizen experience and citizen services in a global picture that is beneficial for everyone.
+
+This takes time, planning and, as you can imagine, given the complexity of the government ecosystems, lots of alignment and coordination.
+
+In some countries and on supra-national levels initiatives are taken and funding is foreseen across a range of ‘smart’ initiatives where often also cities and government agencies can benefit from in the scope of projects within a designated area and an agenda with a clear goal. At the same time, governments get increasingly active in the area of Internet of Things security and regulation, as said, is always nearby. As an example, take the connected car of the future. It’s pretty clear that governments will be hugely involved in this and it’s less obvious than it may seem. Just to give you an idea: in some countries, traffic regulations are already a complete mess because of the arrival of fast electrical bikes. You can imagine what will happen once vehicles are connected and ‘smart’.
+
+The Internet of Things in buildings and facilities
+
+The Internet of Things plays an important role in facility management, among others including data centers and smart buildings.
+
+The integration of IT (Information Technology) and OT (Operational Technology) plays an important role in this regard as it did in the fast rise of Industrial Internet of Things. Thanks to the Internet of Things and this IT/OT convergence, facility managers and building professionals can realize various goals. These depend on the nature and scope of the facility/building.
+
+Smart buildings are among the fastest growing cross-industry Internet of Things use cases in the period until 2020. Moreover, research indicates that data collection from buildings and other structures such as HVAC is already high. Last but not least, the market and evolutions of the BMS (Building Management System) are strongly impacted by the Internet of Things. According to research, the Internet of Things is one of the dominant drivers in both spending and evolutions in the BMS market, which is forecasted to grow at a CAGR of 16.7 percent between 2017 and 2023 according to one of the many studies regarding that BMS market.
+
+As the graphic below indicates, building management systems are becoming the centers of connectivity in a world of ever more endpoints in buildings which are leveraged by several building management systems but whereby the BMS plays a central and connecting role as in the end it’s all about analytics and actions, whereby the building owner wants a central platform which the BMS will be and de facto already largely is.
+
+
+
+ 
+
+**Building management system evolutions
+
+ 
+
+Leveraging data from IoT-enabled facility assets, along with new Internet of Things platforms and facility management, with embedded capabilities, are leading to possibilities and benefits in building management areas such as:
+
+- Smarter building security systems.
+- Smarter Heating, ventilation and air conditioning (HVAC).
+- Safer and more comfortable/healthy workplaces and buildings.
+- Facility service quality optimization.
+- Cost reductions, also in a green building context and in reduction of energy and water consumption.
+- Better planning, operational efficiencies and enhanced resource allocation.
+- Predictive maintenance and facility maintenance planning.
+- Facility equipment control, configuration and regulation.
+- Building management and building automation.
+- Energy efficiency.
+- Light and room control, comfort.
+
+This list is far from comprehensive. As there are various sorts of buildings, each with their own challenges, infrastructure, technologies and most of all goals the landscape of building automation and management is very broad.
+
+In light and room control alone there are several controls such as blind controls, AC unit controls and literally dozens more.
+
+The overall building automation and management landscape exists since far before the Internet of Things existed and is composed of various specializations, each with their standards (e.g. KNX in room control or BACnet in building management systems), certification programs for green buildings (ecology and energy/ecology regulations are key drivers) and for OT channel partners, technologies, networks, solutions and of course goals (the goal of an IoT-enabled office space, building or even meeting room is not the same of a hospital, even if there are always overlaps) .
+
+However, with the Internet of Things these worlds are converging (and the standards already evolved to IP). This is a challenge and opportunity for the various players who all have their skillsets but rarely are able to offer the full picture.
+
+HVAC, for example, requires entirely different capabilities than power management or building management systems. That’s why companies like Schneider Electric have developed partner and system integrator certification programs for various smart building specializations whereby the so-called EcoXperts* (EcoXpert is the name of the partner program)* can learn new skills, connect, expand into new domains and even go for multiple certification badges as the Internet of Things is increasingly dominating all building domains. Some of the players in these segments have a more mechanical background, others an electrical background and still others, such as system integrators, a background of customization and software (PLCs).
+
+Among these providers we find:
+
+- Light and room control experts.
+- Experts in very specific areas such as HVAC.
+- Players in the broader building management field, mainly in large buildings.
+- Electrical contractors who are often more involved with smaller and medium buildings where they can offer smart energy solutions or, for instance specialize in home automation.
+- Experts in critical power, which you typically find in airports, hospitals and other buildings where quality and reliability of power is critical in all senses.
+
+The image below from sustainable cleaning and facilities management company havencab shows a few components in the bigger smart building component picture.
+
+A few components in the bigger smart building component picture – source havencab
+
+ 
+
+**Building management and Internet of Things
+
+The Internet of Things in healthcare
+
+The Internet of Things has been present in healthcare in many forms and shapes since several years.
+
+With remote healthcare monitoring and medical/hospital asset tracking, monitoring and maintenance as typical examples of these initial applications, the face of the Internet of Things in healthcare is changing fast.
+
+Among the evolutions and drivers of the Internet of Things in healthcare:
+
+- An increasing consciousness and engagement from the consumer/patient side leads to new models, leveraging personal healthcare devices.
+- In a more integrated perspective, data from biosensors, wearables and monitors are used in real-time health systems and to save time for caregivers, detect patterns, be more aware and increase quality of care.
+- A broad range of innovations in fields such as smart pills and ever better delivery robots help in making healthcare more efficient and in saving resources, while also increasing quality of care.
+
+Whether it’s on the level of caregivers and healthcare providers, healthcare payers, the pharmaceutical industry, the patient (who should come first and demands it) or other stakeholders in the broader healthcare picture: we are moving from ad hoc and early Internet of Things deployments and use cases to a far more important role of the Internet of Everything in healthcare.
+
+The graphic below shows the importance of remote monitoring as the main use case in healthcare from a spending perspective until 2020 and ongoing growth in the years after that with some vital sign monitor devices, followed by ways how healthcare providers and healthcare payers plan to leverage the Internet of Things and, finally smart healthcare market growth data, based on IDC, Technavio and Grand View Research.
+
+
+
+Some evolutions and forecasts in healthcare IoT in numbers:
+
+- Research shows that by 2019, 89% of all healthcare organizations will have adopted IoT technology and that the Internet of Things will be essential in the initiatives of healthcare payers and providers in 2017 and 2018.
+- Among the main perceived benefits of healthcare IoT in the future are increased workforce productivity (57%), cost saving (57%), the creation of new business models (36%) and better collaboration with colleagues and patients (27%). The key benefits as reported in March 2017, however, are increased innovation (80%), visibility across the organization (76%) and cost savings (73%).
+- Other research shows that wearables will play a key role in health care plans, clinical IoT device data will free up clinician’s time significantly by 2019 (up to 30%) and there will be an increasing role for IoT-enabled biosensors and robots for medication and supplies delivery in hospitals by 2019 as the graphic below shows.
+
+More data, use cases and evolutions regarding the Internet of Things in healthcare via the button below.
+
+**The Internet of Things in healthcare
+
+Internet of Things in utilities and energy
+
+**Facing
+
+ huge challenges and transformations for several reasons, utility firms 
+
+have 299 million units installed according to Gartner’s Tully. On top of
+
+ utilities in the traditional sense there is also a lot happening in oil
+
+ and gas and in energy.
+
+**
+
+Among the many typical use cases in utility firms: smart meters to improve efficiency in energy, from a household perspective (savings, better monitoring etc.) and a utility company perspective (billing, better processes and of course also dealing with natural resources in a more efficient way as they are not endless) *and smart grids (which is about more than the Internet of Things).*
+
+The Internet of Things in automotive 
+
+Connected cars and all the other evolutions in the automotive industry are driving the market as well.
+
+Again, according to the same research by IDC, connected vehicles is the hottest US market in the overall  picture. The connected car is one of those typical examples where the Consumer Internet of Things and Industrial Internet of Things overlap.
+
+The Internet of Things in other sectors
+
+Other industries include healthcare, transportation (where “smart devices” and sensors have existed for quite some time), logistics, agriculture and more.
+
+Add to that the consumer context and you know why it is such a hot topic. Stay tuned for more detailed overviews per industry with various examples of applications in practice and with various use cases per sector.
+
+
+
+Internet of Things trends for 2017 and beyond
+
+In the previous section we mentioned several predictions for the coming years regarding various aspects of the Internet of Things (also check out the sections and additional links for forecasts in specific industries, technologies and so forth).
+
+We summarized some predictions, looking at the top trends for 2017 which Ovum released in March 2017 and added several more.
+
+
+
+Below are some general takeaways of our +20 trends for 2017 (and beyond):
+
+- LPWA technologies go mainstream with several use cases and projects.
+- Security and regulatory compliance both become top priorities (and are linked).
+- Larger organizations deploy more as-a-service-models and at the same time more IoT as-a-service solutions are embraced.
+- Blockchain and Internet of Things convergence is on the rise but inherent flaws in blockchain will need to be fixed.
+- Artificial intelligence and analytics become increasingly important in the growing IoT reality.
+- In the Industrial Internet, IT and OT integration grows but is hindered by cybersecurity concerns.
+- The Consumer IoT market picks up and starts its rapid increase towards the second half of the year.
+- Wearables will be a fast growing segment outside of the Consumer context, among others in healthcare and industrial markets.
+- Industries/sectors where a lot of experimentation has been happening such as governments (smart cities) and retail will drop several pilot projects and focus more on IoT use cases with immediate benefits.
+- Industry 4.0 and manufacturing invest most in IoT and drive the growth of the Internet of Robotic Things, fog computing and 5G.
+
+IoT evolutions and trends
+
+ 
+
+**More IoT trends for 2017
+
+Internet of Things projects and examples
+
+On top of looking at Internet of Things use cases and applications within specific industries it’s worth the while to see how it is leveraged in practice, regardless of sector.
+
+When looking for use cases you will mainly find examples of scenarios and goals within which Internet of Things deployments can be categorized. These use cases tend to use a different taxonomy, depending on the research firm or company that uses them.
+
+Internet of Things examples in the sense of actual cases and real-life deployments help you see the business rationale behind implementations. As said, do check them out, regardless of industry as the sought benefits and results are often relatively universal.
+
+Below are a few examples we’ve explained previously, check them out! You can also check out a list.
+
+**Internet of Things examples
+
+Industrial Internet of Things business case: developing a new service offering at ABB Robotics 
+
+This manufacturing example essentially revolves around the ability to create pro-active and additional (new) services and revenues thanks to the Internet of Things.
+
+It explains how ABB Robotics, the industrial robotics division of ABB, connected the robots it sells to customers and thanks to this connection enhances customer service and much more, tapping into the power of actionable data and insights. The case is based upon information from Jasper (Cisco).
+
+**Read the case
+
+Smart city Internet of Things example: tackling air pollution in Glasgow
+
+This Internet of Things case fits in a smart city application (remember that smart cities aren’t just about the Internet of Things nor even about just technologies).
+
+More specifically, this Internet of Things example zooms in on a challenge regarding environment and air quality monitoring in the city of Glasgow. It’s interesting from the perspective of the goals but most of all from the viewpoint of an – additional – mobile component, which greatly enhanced the city’s possibilities to monitor better and in more circumstances than before. This case is based upon a case study of Spain-based Libelium.
+
+**Read the case
+
+Environmental grassroots Internet of Things example: a flood alert system
+
+The Internet of Things is often used in an environmental context and the monitoring of potential dangers, from volcano eruptions as you can see in our example regarding flood monitoring.
+
+Keeping an eye on rising water levels and gathering the data in order to warn people and the necessary local instances faster in case of a potential flood is what this particular case is all about. It has a grassroots dimension and shows how the measurement of several parameters (also, for instance groundwater levels) can lead to systems for the greater good without breaking the bank.
+
+**Read the case
+
+IIoT and Industry 4.0 example: a mining business case
+
+If you think that the Internet of Things and digital transformation are not for industries that have been around for ages, think again.
+
+With a range of challenges, not in the least regarding IP connectivity, the underground mine of Chelopech in Bulgaria was transformed into an Internet of Everything and Industrial Internet example with several outcomes such as a whopping increase of production, enhanced safety for miners, communication possibilities and savings, previously impossible maintenance and problem solving possibilities and rapid insights in production overall. As the CEO of Dundee Precious Metals, owner of the gold and copper mine, put it in 2016, the mining industry needs disruptive innovation too. And while that’s happening in Chelopech and other mines of Dundee and others (Rio Tinto, Glencore and so forth), many mines still need to embark on the journey. Maybe the case offers some inspiration.
+
+**Read the case
+
+Internet of Things and smart facility management case: business innovation in the property development market
+
+The Internet of Things is often used to develop new services, revenue streams and, ultimately, even business models.
+
+It’s the essence of Industry 4.0 and digital transformation. We tackled the Internet of Things in smart buildings and smart facility management before. Here is a case that combines the potential to tap into new revenue streams in the scope of facility management.
+
+Dutch construction/building and property development company Heijmans understood the potential of smart facility management and smart buildings in office buildings. So, it started collaborating with a few other companies, including a natural ecosystem partner in the scope of office buildings, namely a cleaning firm, to work out a solution that doesn’t only add services for its existing and future customers but also makes the lives of office workers (digital workspaces), cleaners, facility managers and senior management easier across a variety of tasks and needs per identified target segment.
+
+This resulted in a solution that offers a range of control, planning, maintenance and efficiency tools for each of the mentioned four target groups. For the company itself it’s a way to expand its portfolio, up-sell and tap into new revenue streams for customers and anyone needing this kind of solution.
+
+**Read the case
+
+A list of Internet of Things projects and cases
+
+Below is a list with the mentioned cases and several more. Feel free to add additional Internet of Things cases. This list is purely for educational purposes.
+
+      35      items        3      followers        0      votes        38.35k      views    
+
+Internet of Things examples and cases
+
+A list of Internet of Things examples: real-life deployments across several industries. Some in pilot stages and others fully operational.
+
+      Source: https://www.i-scoop.eu/internet-of-things-guide    
+
+1
+
+            Aircraft engine performance and maintenance enhancement at Rolls-Royce      
+
+Rolls-Royce has over 13,000 engines for commercial aircraft in service. Thanks to IoT, the company leverages data from these engines to achieve several engine performance and maintenance goals including reduction of fuel costs. Via Microsoft.
+
+  
+
+2
+
+            Airport case: monitoring environmental conditions in Santiago de Chile airport      
+
+Worlwide airports have become indoor cities where passengers spend so many time before and after taking their flights. In modern airports can be found hotels, restaurants, luxury shops and leisure centres but what makes passengers experience truly comfortable is reducing waiting times, enhancing conditions and also improving processes in the terminals. Ikusi is a technology company specialised in applications to provide greater intelligence and efficiency in infrastructure security, road and rail mobility, airports and cities; with Libelium Waspmote Sensor Platform, the Spanish company has developed a wireless sensor network to ensure quality in management and operation under the concession model in Santiago de Chile airport. Via Libelium.
+
+  
+
+3
+
+            Automating telemedicine around the globe      
+
+Great Lakes NeuroTechnologies (GLNT) develops a line of IoT-enabled products that allow healthcare providers and researchers to monitor people who suffer from Parkinson’s disease. The Internet of Things also helps Parkinson’s patients get affordable access to quality care. For someone who can’t visit a specialist, being able to relay relevant information through telemedicine can have a significant impact on the efficiency of their care and treatment. Via Cisco Jasper.
+
+  
+
+4
+
+            Connected and smart printing presses at Heidelberg      
+
+In this case study (in PDF) PTC explains the pioneering role of Heidelberg in moving to a connected printing press. From smart services to opportunities for (future) value creation.
+
+  
+
+5
+
+            Daimler Trucks North America upgrades plant to take advantage of IoT      
+
+Improved visibility to help increase business agility and minimize production issues, maximize uptime and more efficient operations at Daimler Trucks North America. Via Cisco (PDF).
+
+  
+
+6
+
+            Detecting road modality and occupancy patterns to enhance urban planning in Dordrecht Smart City      
+
+Public authorities are worried about the impact that the increase of people could have in the urban planning of metropolis. The Internet of Things is enabling the detection of the most regular routes; volume of cars, bicycles or pedestrians and most crowded streets passing times. Dimitrios Kyritsis, Surveying & Geomatics Engineer from TU Delft, has developed a research project in the city of Dordrecht (The Netherlands) based on the IoT Gateway Meshlium to monitor pedestrians, bicyclists and vehicles. Read more.
+
+  
+
+7
+
+            Digital transformation with a smart grid transformation at BC Hydro in British Columbia      
+
+With smart grid 
+
+initiatives underway, BC Hydro needed to ensure that its infrastructure 
+
+could support anticipated growth as efficiently as possible, while 
+
+delivering the better and more responsive services that customers were 
+
+accustomed to. Cisco.
+
+  
+
+8
+
+            ELM Energy: an innovative microgrid control solution      
+
+ELM Energy wanted to make independent energy sources —  including solar panels and turbines powered by wind and water — an affordable and reliable option for more customers. The doors of opportunity opened for ELM Energy with the emergence of the Internet of Things. Source: Dell (PDF).
+
+  
+
+9
+
+            Energy and remote monitoring in Nigeria with a smart solar system      
+
+In this case study from Microsoft and Schneider electric we learn how in Lagos (Nigeria) a project is set up that doesn't only provide much needed electricity via solar energy but also uses IoT in the smart systems to allow for remote monitoring and maintenance. Source: Microsoft.
+
+  
+
+10
+
+            Fuel oil dealers gain efficiency thanks to IoT      
+
+Fuel oil dealers came to Senet to find a way to enhance efficiency in delivery systems. In most cases fuel oil dealers fill up their tanks when they think they need to. In other words: gut feeling, based on experience and factors such as the temperature (the colder it gets, the faster those tanks get empty). Not the most efficient way. The solution: IoT.
+
+  
+
+11
+
+            Green building case: the first LEED Platinum building certification in Greece      
+
+Greece's Stavros Niarchos Foundation Cultural Centre  gives new green space and parkland for the surrounding community. An onsite water treatment plant, over 1200 energy meters, 1.5 MW of solar PV generation and full control of HVAC are just some of the elements of the design specification for the facility, which aims to enforce strict limits on energy and water usage.
+
+  
+
+12
+
+            Improving the production of kiwifruit with smart irrigation      
+
+Italy is one of the main producers of kiwifruit, which is a delicate fruit to grow and requires a lot of attention in order to obtain the right, marketable quality. Smart irrigation is one of the ways to make sure this happens as in this smart agriculture IoT case from Italy.
+
+  
+
+13
+
+            Industry 4.0 and IIoT in the mining industry: Dundee Precious Metals case      
+
+Dundee Precious Metals modernized the mine of Chelopech with Industrial Internet solutions. A mining industry IIoT and digitalization case.
+
+  
+
+14
+
+            Industry 4.0: taking the next step in smart manufacturing solutions at Mitsubishi Electric Corporation      
+
+Mitsubishi Electric Co. wanted to take the next step in its manufacturing solutions and offer added value to its customers. The Internet of Things enabled to take this next step in the concept of what Mitsubishi Electric calls e-F@ctory since 2003. Via NEC Corporation.
+
+  
+
+15
+
+            Integrated building automation for a superior hotel guest experience      
+
+Smart building case: IoT and building automation boost guest experience, enable hotel management to focus on service and result in additional benefits.
+
+  
+
+16
+
+            Internet of Things in insurance case: telematics      
+
+Baseline Telematics, as the name indicates, provides telematics solutions as they are increasingly used in insurance. In this case, Canada-based Industrielle Alliance and Baseline Telematics explain how they use IoT to become a service company and move away from traditional methods of calculating premiums in favor of usage-based insurance (UBI) models. Available via Cisco's Jasper site.
+
+  
+
+17
+
+            IoT for a scalable service model in Industry 4.0 at Sandvik Coromant      
+
+Sandvik Coromant, part of the global industrial group Sandvik, was capable of scaling the service capabilities of its teams and enhance field service thanks to IoT. A digital manufacturing example. Available via the website of Microsoft.
+
+  
+
+18
+
+            Leveraging the Internet of Things at Garmin      
+
+Garmin is a household name in the mobile world of GPS navigation, sonar, communication and even wearables. With so many devices for various consumer and industry applications, the company could go much further, leveraging real-time information. Available via the Cisco Jasper website.
+
+  
+
+19
+
+            Lordan: an IoT-powered manufacturing automation system      
+
+In this PDF case study from Cisco you can discover the IoT solution (with fog computing and IoT security) whch provided a manufacturing automation system to Lordan, a manufacturer of thermal-engineering heating and cooling systems. Key goals: identify bottlenecks, reduce downtime and waste, and improve overall equipment effectiveness (OEE).
+
+  
+
+20
+
+            Monitoring electrical activity in the brain to avoid mining accidents      
+
+One of the main dangers in the mining industry is fatigue. Hard work in harsh conditions and environments where there is always activity. In Australia - and beyond - SmartCap monitors workers to eliminate micro sleeps, the major cause of workplace driver accidents. On the website of Sierra Wireless.
+
+  
+
+21
+
+            Monitoring snow and ice on highways for winter gritting (smart road case)      
+
+During the winter 2016/2017, orders of salt ahead of the winter gritting season increased dramatically. Often there is an excessive and unnecessary gritting of roads during cold weather. How do you avoid waste and don't burden the environment? With a smart road management solution as this case shows.
+
+  
+
+22
+
+            Optimizing processes with IoT at Iberdrola Renewables      
+
+By connecting systems
+
+ and integrating data from diverse sources, Iberdrola Renewables is 
+
+taking advantage of Internet of Things (IoT) capabilities. The company 
+
+was looking for ways to improve processes and operational 
+
+efficiencies. Via the website of Intel.
+
+  
+
+23
+
+            Optimizing vending machine management with IoT      
+
+Cantaloupe is using the Internet of Things (IoT) to remove the complexity from vending machine management. Their Seed Platform, through which more than 100,000 machines are wirelessly connected, enables customers to easily manage, monitor and optimize vending operations from anywhere on any device. Via Cisco Jasper.
+
+  
+
+24
+
+            Precision farming to control irrigation and improve fertilization strategies on corn crops      
+
+Omica is an Italian start-up focused on Smart Agriculture. Its mission is developing innovative products that integrate new disrupting technologies such as the Internet of Things. In collaboration with Libelium technology they have deployed a wireless sensor network to improve crops yields by identifying less productive zones and also monitoring crop water and fertilizer requirements during the growth period. Via Libelium.
+
+  
+
+25
+
+            Remote blood pressure monitoring and EHR integration      
+
+Ochsner Health System decided to integrate its electronic health record (EHR) system with IoT technology and devices to monitor patient health. Wireless scales and blood pressure cuffs monitor vitals and feed data directly into each patient’s medical record using the patient’s smartphone. From there, doctors, pharmacists and health coaches can remotely monitor patient status and track potential trends or problems.
+
+  
+
+        
+
+            1-25          of 35        
+
+    
+
+Internet of Things technology: cloud and fog computing
+
+As so much data is created and increasingly will be created with the Internet of Things, the decentralized ways in which these data are generated need different aproaches, among others in the ways they are transported, processed and analyzed, driving (automated) actions.
+
+One of these approaches is fog computing, a system-level architecture (and form of edge computing) that extends the computing, network and storage capability of the cloud to the edge of the network. This is especially important when a large geographical area is involved, when data needs to be processed extremely fast and data is collected at the extreme edge as Cisco calls it, for instance on oil rigs or in ships.
+
+Fog computing visually explained – source Cisco blog post announcing the launch of the OpenFog Consortium
+
+Fog computing is not the only technological aspect to deal with the reality regarding data, bandwidth, processing and analysis requirements of IoT projects. There are also numerous other technologies, among others regarding connectivity as we see below, that are involved. Other technological components include the middleware, the sensors, actuators and other hardware, the cloud and so forth.
+
+With the huge challenges and opportunities on the unstructured data front in mind, however, it’s key to look at the evolutions in fog computing, certainly in more industrial applications where analytics close to the point of origin will become more and more important as data volumes rise, everything moves to the edge, networks become more intelligent and resources need to be allocated well, avoiding too much sending back and forth of big data sets.
+
+**Internet of Things network technologies
+
+ 
+
+
+
+Connectivity and network technologies
+
+Time for a look at the Internet of Things connectivity aspect. In order to transmit data between devices and from devices to platforms, the cloud or any other destination, network technologies are needed.
+
+In some applications, for instance in smart home solutions, this is relatively easy as there are several general and several proprietary connectivity solutions in typically rather simple use cases.
+
+Connectivity is traditionally divided into solutions for PAN (Personal Area Network), LAN (Local Area Network), WAN (Wide Area Network), MAN (Metropolitan Area Network) and (less) in NAN (Neighbourhood Area Network).
+
+
+
+These are concepts we know from computer networking in general since quite some years. To connect from a PAN to a LAN and a WAN or, let’s say, the Internet you need a gateway.
+
+Internet of Things networks and connectivity in evolution
+
+Today, various connectivity solutions enable to do so but in a not so distant past you needed smartphones, mobile networks and other solutions that weren’t not made for IoT didn’t guarantee enough safety or quality.
+
+The rise of LPWAN companies such as Semtech (LoRA), Sigfox and so forth needs to be seen from that perspective whereby the focus was on having enough bandwidth, low power consumption and so forth at cheaper prices than existing possibilities. Building specific networks, among others, what made non-cellular LPWAN solutions successfull.
+
+Today that landscape continues to evolve and change. New 3GPP standards, the shift to 4G LTE in the industry and beyond are some of these evolutions. Wireless IoT protocols and technologies are expected to become more important in the IoT network layer overall. However, it is and remains a reality that keeps changing.
+
+Moving to more wireless Internet of Things connections and wireless network technologies
+
+Among the reasons why wireless network technologies become more important is their flexibility as compared with wired networks.
+
+Wireless IoT connections and the use of wireless IoT network protocols and technologies are key in the IoT network layer
+
+That’s what Nicolas Windpassinger, author of the Internet of Things book ‘Digitize or Die’ says. If we take a look at the many wireless protocols and network technologies, Nicolas classifies them in five categories whereby he takes their range as a starting point. Obviously, the various technologies within the five wireless IoT network layer segments which he visually represented in the infographic below and further explores in his book have different ranges and different characteristics on other levels such as data rates and much more.
+
+To categorize the several wireless technologies and protocols on the network level, Nicolas removes one of the previous mentioned types of networks and also adds one: proximity or body area networks, an increasingly important segment, certainly as the 4th platform is nearing.
+
+Nicolas classifies the many wireless Internet of Things protocols and technologies as follows:
+
+- Proximity or body area networks: Near Field Communications and RFID.
+- Wireless PAN: from Bluetooth and Zigbee to Z-Wave, Enocean and WirelessHART, to name a few.
+- Wireless LAN: the various flavors of Wi-Fi, including Wi-Fic HaLow which was presented by the Wi-Fi Alliance for IoT purposes and DASH7.
+- Wireless NAN: Wi-SUN and JupiterMesh.
+- Wireless WAN: anything LPWAN, from non-cellular LPWA (Sigfox, LoRa etc) to cellular technologies and standards in the 2G, 3G and 4G space and beyond.
+
+Wireless IoT network protocols and technologies – source and copyright Digitize or Die IoT book
+
+ 
+
+**Classification of wireless network technologies for IoT
+
+Internet of Things network and connectivity shifts in the Industrial IoT
+
+In the Industrial Internet of Things the majority of networks concerns fixed line connections such as DSL, cable modem, Ethernet and PSTN.
+
+However, here as well the picture is evolving. According to ABI Research, for instance, one quarter of all new IIoT connections will be wireless whereby LPWA is expected to be the fastest grower until 2021 and there is a shift in the wireless area from 2G to 4G LTE.
+
+Main connectivity evolutions in Industrial IoT
+
+ 
+
+**Industrial IoT network technologies and evolutions
+
+Most Internet of Things cases require several connectivity technologies
+
+In many, more advanced, Internet of Things use cases and examples, de facto a mix of connectivity technologies is needed.
+
+Once more, everything depends on the context and the offering is vast: from fixed networks and wireless IP networks to low-rate wireless personal area networks, low-power wide area wireless solutions and even satellite; there is a (mix of) connectivity solution(s) for all cases.
+
+Moreover, within each type of connectivity solutions  there are often various players, each with their own characteristics and specifications.
+
+As an example: in low-power wide area connectivity (LPWA), used in applications that need a long battery life, have limited data needs and have to cover a broader area, there are several non-cellular (outside of the licensed mobile spectrum) actors of which LoRA, Sigfox, Ingenu and Weightless (SIG) are among the better known ones. However, there are also newer cellular solutions (licensed spectrum of mobile operators) with again various forms and flavors: NB-IoT (NarrowBand IoT or CAT-NB1), LTE-M (CAT-M1) and so forth. In the cellular space we also need to mention 5G, as well as 3G and so forth as you’ll see in the example below. The same diversity goes for connectivity solutions in short-range conditions and so on.
+
+Mapping of use cases and network technologies Source Analysys Mason 2015
+
+That’s why several IT solution providers, telecom operators and so forth in practice offer a mix of connectivity solutions to enable their customers to leverage the Internet of Things for their specific needs.
+
+The IoT connectivity puzzle is getting more standardized but it is not getting easier as new technologies and standards such as new Bluetooth versions (Bluetooth 5, Bluetooth MESH), new cellular mobile solutions, other forms of Wi-Fi etc. arise on top of an already vast ecosystem of all sorts of connectivity solutions, based upon various standards which are used in a specific context, such as Zigbee (see example below), Z-Wave and so many more, including vendor-specific approaches, certainly in the smart home space.
+
+What’s important to know is that there is no one size fits all solution in any type of connectivity: the use case and application drives the needs.
+
+**More on LPWA (licensed and unlicensed band)
+
+An example of IoT connectivity in practice: combining Zigbee and 3G for mobile air quality monitoring
+
+Here is an example of why you often need various types of connectivity in practice.
+
+We’ve covered an example of an IoT case in the area of air quality monitoring whereby vehicles drive around to complement air quality data from fixed systems previously.
+
+If you look at the connectivity solutions that are used in the case you see two types of connectivity.
+
+1. One is Zigbee, one of the connectivity solutions built upon the 802.15.4 standard for low-rate wireless personal area networks. As the image indicates in this case it is used to send the ‘sensed’ environmental data in the box on top of the van to a sensor hub in the glove box of the vehicle.
+2. The second one is 3G, the cellular standard, which is used to send the gathered information to the cloud and the application it powers.
+
+And we can even add another technology: GPS (which enables tracking). You understand that the more complex the case (think about large-scale industrial applications), the more different connectivity solutions can be needed.
+
+IoT connectivity solutions use in an air quality monitoring case – source Libelium
+
+ 
+
+**More on Internet of Things connectivity
+
+More on Internet of Things connectivity
+
+Below are a few more links to Internet of Things connectivity topics and predictions we’ve tackled on this site.
+
+- Wireless Internet of Things connectivity: LPWAN IoT forecasts 2017
+- Sigfox and the accelerating race for global LPWAN IoT network coverage
+- LoRaWAN across the globe: LoRa Internet of Things networks overview
+- Discussing the future of IoT networks at LPWAN World Forum 2016
+
+Internet of Things platforms
+
+In order to build an Internet of Things solution, different components are required. There are the connected or tagged devices, equipped with sensing and data capabilities. There is the challenge of connectivity which we just tackled, there is the question of analytics. You need a strategy. Security cannot be an afterthought. The list goes on.
+
+Another component which becomes increasingly important is the Internet of Things platform. The term is used for many sorts of platforms but we look at so-called IoT Application Enablement Platforms, what real IoT platforms are. They combine several functions in one software solution and are offered by hundreds of vendors, including big players such as Amazon, Microsoft, SAP and IBM, to name a few.
+
+
+
+Some takeaways:
+
+- In 2017, the IoT platform market will grow with an unseen triple-digit percentage of 116%.
+- Open data and interoperability become even more important.
+- IoT platform growth remains huge with high double-digit numbers until at least 2025.
+- The main drivers to acquire Internet of Things platforms are better, faster and cheaper development and deployment.
+- There is a growing interest in open source IoT platforms.
+- The market will go through a stage of consolidations as vendors rush to offer more complete solutions which can also be leveraged in vertical industry situations.
+
+**Internet of Things future forecasts: focus on IoT platforms
+
+The Internet of Things and IPv6
+
+The Internet of Things and IPv6 go hand in hand. IPv6 (IP stands for Internet Protocol) is a key step in the evolution of the Internet and the Internet of Things.
+
+IPv6 allows for 100 possible Internet addresses for every atom on the face of the Earth
+
+What are we talking about? It’s a known fact since really many years that the number of available IPv4 addresses doesn’t suffice anymore. As the Internet continues to grow and with the rise of the Internet of Things, IPv6 essentially makes sure that we don’t run out of IP addresses (which are needed in IoT too) and the growth of the Internet doesn’t stop. With IPv4 IP addresses would become a scarce good with all the necessary consequences.
+
+Simply said, IPv6 guarantees that all things, whether it concerns all the ‘traditional’ Internet stuff out there or the many devices in the Internet of Things, will have their IP addresses. Why? Well, the latest version of the Internet protocol, v6, simply allows far more IP addresses and thus enables the identification, location and communication of more devices on the Internet.
+
+The math: IPv4 is good for more or less 4.3 billion addresses (it’s 32-bit), IPv6 (128-bit) allows for 340,282,366,920,938,463,463,374,607,431,768,211,456 possible internet addresses or 100 for every atom on the face of the Earth as BT’s Tim Rooney calculated.
+
+Wikipedia has a pretty good overview of the various challenges and other facts regarding IPv4 and IPv6 in case you’re interested.
+
+Internet of Things and the Internet of Services
+
+In more than one way the Internet of Things is really an Internet of Services, not just regarding the services that are needed by organizations for the Internet of Things projects they want to realize but also in the context of the goals of deployments as a service to the stakeholders and the as-a-service economy
+
+The global Internet of Things services market will grow with a compound annual growth rate (CAGR) of 24% until 2021
+
+There is a growing need for Internet of Things services by organizations. Today, many Internet of Things projects, certainly in the Industrial Internet of Things, revolve around process automation and data analytics.
+
+There is also a demand for Internet of Things services in other areas than services around automation, information management and data analytics. And in the context of, for instance, smart homes, smart cities and smart healthcare there is a need for specialist services. In practice and in big projects many service providers even need to collaborate as you cannot be a specialist in everything. Collaboration is key.
+
+At the same time many de facto Internet of Things deployments in real life are about the development of better data-driven services, both in the sense of enhanced customer service and in the sense of tapping into new revenues by developing services in more pro-active and sometimes even disruptive ways, moving companies from a product to a service business model. Our list of Internet of Things cases gives some good examples of this evolution.
+
+**Internet of Things services outlook
+
+Internet of Things and security
+
+The Internet of Things still is a security nightmare although one needs to differ and not generalize but rather look at various cases. 
+
+Nevertheless, both in consumer applications and industrial applications, there are many questions that need to be solved.
+
+Security is a challenge in consumer and industrial Internet of Things
+
+The Consumer IoT space is probably most talked about from the security viewpoint as there are several issues and as security concerns seriously impact the market.
+
+Consumers lack awareness about the potential risks associated with emerging connected devices (Gary Davis, Intel Security)
+
+When Accenture looked at the slowing down of the consumer electronics market at the occasion of the Consumer Electronics Show 2016, the company observed that in order to bridge the gap between the current decreasing growth of the consumer electronics market and the next stage of increasing growth, which is expected to be driven by consumer applications in the IoT space and wearables, vendors need to address these security challenges.
+
+The many security challenges regarding the Internet of Things are not just in the consumer electronics space. In business applications, the security challenges of a hyper-connected Internet of Things reality are at least as high, not to mention the impact on IT infrastructure and data capabilities.
+
+Cybercrime meets the Internet of Things
+
+Connected devices and the internet of Things are increasingly used for large scale attacks.
+
+Gartner estimates that more than 20% of enterprise security attacks will involve Internet of Things connections by 2020, and threat growth is expected to outstrip security spending
+
+Several DDoS attacks have been reported throughout 2016, including the up to 620 Gbps DDoS attack which made the website of well-known security journalist Bryan Krebs go down end September 2016. The attack received a lot of attention, also because it was related with other issues such as free speech (Krebs was attacked by hackers after exposing a network of hackers for hire, the attack was so intensive that Akamai had to stop protecting Kreb’s website against DDoS attacks and Google put the site in its Project Shield).
+
+Fears are high that soon such attacks and even more intensive ones will become the norm. And it’s not just about DDoS attacks. Ransomware is also moving to the Internet of Things and security experts warn for cascade effects of exploited vulnerabilities in the connected reality which the IoT is. On top of the security challenges, compliance and data privacy also need to be tackled.
+
+Internet of Things security risks
+
+An Internet of Things business plan must encompass security, from start to finish and beyond
+
+In the Internet of Things, sensors communicate with each other and through gateways, connected to an Internet of Things platform, the various applications of the company are fed and triggered.
+
+Obviously such a platform needs to be highly secure as do the communications between sensors, gateways and the platform.
+
+Some aspects of the Internet of Things security concerns
+
+- Vulnerabilities in the devices.
+- Difficult or non-existing procedures to patch IoT devices.
+- A lack of awareness in and support from the boardroom.
+- Too much focus on saving costs in Internet of Things projects and not investing in essential security controls.
+- Not enough attention for security overall and for the ‘perimeter of everything’ which is simply needed in the Internet of Everything.
+- Lack of standardization across networks and application programming interfaces (APIs).
+- Old devices and rogue vendors.
+- Consumer education and awareness.
+- Standardization and protocols (although serious efforts are being done).
+
+Internet of Things security priorities and evolutions
+
+Before embarking on an Internet of Things project journey, it’s important to realize that security is not an afterhought and is an end-to-end part of any digital strategy.
+
+
+
+Many IoT enterprise security professionals still are not monitoring IoT devices in real time, a situation that is expected to change throughout 2017 and 2018 as security gets more attention and Internet of Things platforms with IoT device monitoring are leveraged rapidly.
+
+Other evolutions and facts you can expect on an Internet of Things security level include:
+
+- Continued breaches as the industry players step up the security pace to become trusted partners.
+- More sophisticated threats and a more sophisticated usage of devices that are out there already and need an urgent solution.
+- A potential delay in the Consumer Internet of Things picking up.
+- Changes in the ecosystems used to deploy Internet of Things projects.
+- An increasing choice for the most secure connectivity options, depending on the use case.
+- Different ways of handling data and on securing the endpoints where data is generated.
+- Organizations will invest more in device discovery, onboarding and monitoring to gain visibility and be able to do real-time monitoring.
+
+**Internet of Things future forecasts: focus on security
+
+Security and the Industrial Internet of Things
+
+The Industrial Internet of Things and the integration of IT and OT comes with specific security challenges, as do many IIoT use cases and technological/human elements which are typical in industrial Internet.
+
+Cybersecurity is one of the key reasons slowing down Industrial Internet of Things (IIoT) adoption. Check out the evolutions, challenges and solutions with additional resources on IIoT and security.
+
+Industrial Internet of Things and cybersecurity 2017 research – read more here – source
+
+ 
+
+**Security and the Industrial Internet of Things
+
+More resources about the Internet of Things and security
+
+- IoT security: smart business requires smarter Internet of Things security
+- IoT security and the consumer: the challenges and education question
+- IoT security: the majority of IoT devices is not monitored in real time
+- Growth of the IoT Managed Security Services market 2017-2021
+
+Internet of Things and regulations
+
+As data has become a key business asset in the digital transformation economy and the Internet of Things, as well as the many related technologies, revolve around connected data and how it’s leveraged, new regulatory frameworks are planned and/or deployed.
+
+The Internet of Things leverages personal data across several use cases. Think about driverless cars, wearables for private or healthcare applications, telematics in insurance, IoT and marketing, the smart home, the list is endless.
+
+Internet of Things, the GDPR and the ePrivacy Regulation
+
+The protection of personal data, with significant fines in case of serious breaches, in a digital economy is a cornerstone in the General Data Protection Regulation or GDPR. 
+
+The distrust regarding clear consent and information gathering practices already starts on the level of Internet of Things manufacturers
+
+This EU Regulation affects all organizations which process personal data of EU citizens, no matter where the organization physically resides or the processing is done. In other words: it’s crucial to prepare for the GDPR in general but also with regards to the Internet of Things. Why? Because with the Internet of Things comes a range of technologies, devices, use cases, applications and processes which are pretty specific and amazingly overlooked, despite the fact that the GDPR becomes enforceable in May 2018 and takes a lot of work. If you HAVE or PLAN to deploy an Internet of Things project that involves personal data from EU citizens in any way you MUST know the GDPR rules.
+
+A second piece of legislation, also in the EU, that will impact what can and can’t be done with the Internet of Things is the ePrivacy Regulation. This text for now is not final yet but once it is will have significant consequences as it covers privacy across electronic communication channels and the draft text explicitly mentions the Internet of Things.
+
+Internet of Things and regulation: awareness is crucial, compliance will drive the market
+
+As other regions and specific vertical industries are about to be confronted with regulations regarding IoT and related technologies, awareness, preparation and information is crucial. 
+
+It takes work but we wrote a guide on the Internet of Things in the scope of the GDPR and the ePrivacy regulation which will be updated as other legislation and regulations are added, to get you started. There are also intentions to, for instance, regulate robots and AI.
+
+On the positive side (and security nor data breach avoidance can’t be an afterthought in any Internet of Things project) the regulatory changes also will drive the adoption of the Internet of Things in both consumer and business/industry applications, where data, privacy and security remain key challenges as you could read in the previous section in security and the Industrial Internet of Things because here is the thing: without trust nothing goes.
+
+**The Internet of Things and regulation: GDPR, ePrivacy and more
+
+Distributed ledger technology: blockchain and the Internet Of Things
+
+Internet of Things applications and blockchain (or distributed ledger technology) are expected to go hand in hand.
+
+As both are distributed and blockchain is conceived for applications involving transactions and interactions with new forms of contracts as other benefits, it is expected that the technology behind blockchain can serve as a basis to keep a ledger of IoT devices, how/what they communicate and data on their state.
+
+Distributed ledger technology (the technology that essentially is behind ‘the’ blockchain which powers Bitcoins but can be used for many other reasons) is seen as a way to enhance compliance in the Internet of Things.
+
+Accountability and audit trails thanks to the use of distributed ledger technology, however, are not the only benefits of the converge of blockchain and the Internet of Things.
+
+In an infographic, IBM mentions 3 key benefits of using blockchain for the Internet of Things:
+
+1. Build trust
+2. Reduce costs
+3. **Accelerate transactions
+   **
+
+According to the company blockchain is a game-changer for IoT. End 2016 Forrester Research also zoomed in on the benefits, possibilities and evolutions.
+
+**Blockchain and IoT
+
+ 
+
+Three key benefits of using blockchain for IoT according to IBM – source
+
+Internet of Things, artificial intelligence and machine learning
+
+We previously mentioned how the convergence of IoT, artificial intelligence and big data analytics opens the door to next generation technologies. These include new applications in visualization technology and Brain Computing Interfaces.
+
+AI technologies and solutions are being woven into a broader and wider array of applications and use cases, including IoT applications and use cases
+
+Yet, artificial intelligence and cognitive is bound to play an increasing role in IoT. This is the case in many areas and for many reasons. Below are a few.
+
+- As we move to autonomous decisions at the edge in multiple industrial markets such as the building management space, AI inevitably becomes a necessity. The same goes for areas such as the Internet of Robotic Things, autonomous processes in manufacturing and Industry 4.0, the list goes on.
+- The increase of IoT data and multiplication of data sources overall in areas such as healthcare and life sciences, to name a few, leads to an avalanche of data whereby only AI can help make sense out of all this data and turn IoT and sensor data into actionable intelligence. In fact, AI is the only way to make sense of unstructured data to begin with and is leveraged in ever more applications where unstructured data meet engagement. If we compare the sheer volumes of data today with what IoT is still about to add the consequences are clear.
+
+Just as is the case in other data-intensive areas and even more so in IoT, AI is the only way to move from data to tangible value in an ocean of information that is sensed, sent, analyzed and leveraged with analysis at the edge in many industrial applications.
+
+Enterprises will be using AI and machine learning to make sense of IoT data 
+
+There are more areas of convergence and collaboration between artificial intelligence and machine learning on one hand and IoT on the other but it’s clear that AI and IoT simply go hand in hand in myriad applications. This is also understood by executives. According to the 2017-2017 edition of the previously mentioned IoT Barometer, IoT will not just become far more integrated but also push the adoption of artificial intelligence while doing so. A large majority of executives (79 percent) agree that in the period from 2017 until 2022 over half of organizations will use artificial intelligence and machine learning to make sense of IoT data.
+
+The convergence of AI, IoT and big data analytics leads to next generation technologies and possibilities
+
+If we take a look at the forecasts with regards to the market of artificial intelligence and cognitive systems which is poised to reach $57.6 Billion in 2021 according to September 2017 data from IDC, there is an interesting sentence from research director David Schubmehl at the end of the press release that kind of nails it for us: “We are seeing cognitive and AI technology and solutions weaving into an ever broader and wider array of applications and use cases”.
+
+The Internet of Things in business context: sell/realize the use case and outcome
+
+While IoT matters a lot, it’s important to remember that usually business people don’t talk about the Internet of Things to their bosses in the scope of their work and project plans. If they do, it’s best to stop it unless the CEO and CFO are IT experts.
+
+Business execs often don’t even speak about the use cases in terms of more…terms, such as smart cities or smart grids. In the end, they know that they need to digitally transform, that the Internet of Things is a truly disruptive game-changer but their job is to solve challenges , innovate and optimize in function of activities and goals. Simply put: few LOB executives will try to sell an IoT project to the CEO and there aren’t that many that will try to convince the board or the CFO regarding the benefits of a smart metering project. But, to take the latter example, they will certainly succeed if they come up with a way to reduce costs, gain valuable insights, develop new revenue streams and increase customer satisfaction, for instance, certainly if they did the math.
+
+How important is the Internet of Things really?
+
+The Internet of Things will change our lives and organizations dramatically, just as cloud computing and big data have been a major shift, the Internet and mobile devices revolutionized the world, robots and AI (artificial intelligence) impact and will impact our lives deeply, blockchain is a major game-changer and Industry 4.0 will significantly alter the face of manufacturing and of industrial markets.
+
+But there is a catch. It’s easy to say that the Internet, mobile phones, smartphones and social media changed many things as they are here since many years. It’s far harder to say how – and how fast and where – exactly the Internet of Things will change our lives. We see how it does in organizations, in healthcare and so forth.
+
+However, for the IoT and more ‘recent’ realities such as Industry 4.0 and the latest forms of AI, it is still very early days Moreover, these days there are many people who think that technology will solve all challenges, which it rarely does. Some even seem to think that because you can add things to the IoT you should everything which you can. It’s part of the hype and IoT solution provider efforts. Yet, as phenomena such as digital transformation and even the Internet show things don’t always tend to change that fast nor in the directions some would like it. With the Internet of Things (and others), there are also regulatory measures, security issues, questions regarding job losses  and far more.
+
+While the Internet of Things no doubt really is part of a set of technologies and use cases that will change many things (from cities and cars to houses and factories) we’re not there yet and don’t know how fast and how it will happen. There isn’t a single prediction about a basic aspect of the IoT such as the number of connected devices by year x, that has come true over a longer period and adjustments to forecasts until now have always been reductions.
+
+The IoT in essence remains about connecting material things to the Internet. As we covered, these things include devices, machines, sensors and objects, as well as contextually relevant condition and status monitors of living things such as animals and people in novel ways. Anything that is attached as an endpoint with a unique Internet adress (IP address) to the Internet and can sense and send data is part of the IoT. An endpoint is what makes an object uniquely identifiable on the IoT. It can be (part of) a system, a device, a tag which is attached to an animal or a sensor and communication system connected to a human being.
+
+Yet, the main benefit of the Internet of Things is the capability to leverage data and turn them into actions and insights in previously unseen ways. To do so, the Internet of Things works in an ecosystem of several technologies and partnerships. And that is where the real value of IoT starts.
+
+Developing an Internet of Things strategy with these things in mind is crucial. 
+
+The Internet of Things in an infographic
+
+Below is an infographic by Goldman Sachs on the Internet of Things which pretty well summarizes several of its aspects and evolutions.
+
+The Internet of Things – what is it and where does it go – infographic by Goldman Sachs
+
+Top image: Shutterstock – Copyright: jamesteohart – All other images are the property of their respective mentioned owners.
